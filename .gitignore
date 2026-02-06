@@ -1,0 +1,17 @@
+# Sensible Dateien NIEMALS auf GitHub
+.env
+*.key
+*.pem
+secrets/
+api-keys/
+credentials/
+
+# Hugo Build-Output
+public/
+resources/_gen/
+
+# System
+.DS_Store
+*.swp
+*.bak
+node_modules/
