@@ -1,0 +1,22 @@
+languageCode = "de"
+languageName = "Deutsch"
+weight = 3
+title = "KI Tools Übersicht & News für Unternehmen"
+
+[params]
+  displayName = "Deutsch"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. January 2006"
+  logo = "img/blowfish_logo_transparent.png"
+  description = "Unabhängige Vergleiche und Tests von KI-Tools für den deutschsprachigen Markt."
+
+[params.author]
+  name = "AI Tools Vergleich Team"
+  image = "img/blowfish_logo.png"
+  headline = "Experten für KI Tool Analysen"
+  bio = "Wir testen und vergleichen KI-Tools für den deutschsprachigen Markt."
+  links = [
+    { x-twitter = "" },
+    { github = "" },
+  ]
