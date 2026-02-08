@@ -1,3 +1,33 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://ai-tools-vergleich.de/"
+languageCode = "de"
+title = "AI Tools Vergleich — KI-Tools für Unternehmen"
+theme = "blowfish"
+
+[params]
+  description = "Unabhängige Vergleiche und Tests von KI-Tools für den deutschsprachigen Markt."
+  mainSections = ["vergleiche", "reviews"]
+  showTableOfContents = true
+  showRelatedContent = true
+  showBreadcrumbs = true
+
+[params.homepage]
+  layout = "profile"
+  showRecent = true
+
+[params.article]
+  showDate = true
+  showDateUpdated = true
+  showAuthor = true
+  showTableOfContents = true
+  showRelatedContent = true
+  showBreadcrumbs = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
