@@ -1,0 +1,29 @@
+[[main]]
+  name = "Vergleiche"
+  pageRef = "vergleiche"
+  weight = 10
+
+[[main]]
+  name = "Reviews"
+  pageRef = "reviews"
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Über uns"
+  pageRef = "about"
+  weight = 40
+
+[[footer]]
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 10
+
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "datenschutz"
+  weight = 20
