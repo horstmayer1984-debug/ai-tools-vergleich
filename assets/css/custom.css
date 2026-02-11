@@ -50,3 +50,22 @@ img {
 nav, .navbar {
   transition: all 0.6s ease !important;
 }
+/* Animierten Hintergrund komplett entfernen */
+body {
+  background: #ffffff !important;
+}
+
+body.dark {
+  background: #1a1a1a !important;
+}
+
+/* Keine Hintergrund-Animationen */
+.background, .animated-background, [class*="bg-gradient"] {
+  background: transparent !important;
+  animation: none !important;
+}
+
+/* Hero-Sektionen ohne Animation */
+.hero {
+  background: transparent !important;
+}
