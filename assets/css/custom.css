@@ -1,6 +1,4 @@
 /* Blowfish Theme Animationen dezenter machen */
-
-/* Hero-Animationen stark verlangsamen */
 .animate-fade-in {
   animation-duration: 3s !important;
   animation-timing-function: ease-in-out !important;
@@ -10,46 +8,39 @@
   animation-duration: 2.5s !important;
 }
 
-/* Hover-Effekte sanfter */
 .article-card, .list-item {
   transition: all 0.5s ease !important;
 }
 
-/* Scroll-Animationen dezenter */
 [data-animate] {
   animation-duration: 2s !important;
   opacity: 0.95;
 }
 
-/* Ladebalken langsamer */
 .progress-bar {
   transition: width 1.5s ease !important;
 }
 
-/* Links sanfter */
 a {
   transition: color 0.4s ease, border-color 0.4s ease !important;
 }
 
-/* Code-Block-Hover dezenter */
 pre code {
   transition: background-color 0.6s ease !important;
 }
 
-/* Bilder sanfter einblenden */
 img {
   transition: opacity 1s ease, transform 0.8s ease !important;
 }
 
-/* Keine aggressive Parallax-Effekte */
 .parallax {
   transform: none !important;
 }
 
-/* Navbar-Transitions verlangsamen */
 nav, .navbar {
   transition: all 0.6s ease !important;
 }
+
 /* Animierten Hintergrund komplett entfernen */
 body {
   background: #ffffff !important;
@@ -59,13 +50,11 @@ body.dark {
   background: #1a1a1a !important;
 }
 
-/* Keine Hintergrund-Animationen */
 .background, .animated-background, [class*="bg-gradient"] {
   background: transparent !important;
   animation: none !important;
 }
 
-/* Hero-Sektionen ohne Animation */
 .hero {
   background: transparent !important;
 }
