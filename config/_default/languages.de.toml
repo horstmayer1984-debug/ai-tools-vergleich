@@ -1,18 +1,18 @@
 languageCode = "de-DE"
 languageName = "Deutsch"
 weight = 1
-title = "KI Tools Übersicht & News für Unternehmen"
+title = "AI Tools Vergleich"
 
 [de.params]
   displayName = "DE"
   isoCode = "de"
   rtl = false
   dateFormat = "2. January 2006"
-  description = "Unabhängige Vergleiche und Tests von KI-Tools für den deutschsprachigen Markt."
+  description = "KI-News und Analysen für den deutschsprachigen Markt."
   copyright = "© 2024-2025 AI Tools Vergleich"
 
 [de.params.author]
-  name = "AI Tools Vergleich Team"
-  headline = "Experten für KI Tool Analysen"
-  bio = "Wir testen und vergleichen KI-Tools für den deutschsprachigen Markt."
+  name = "AI Tools Vergleich"
+  headline = ""
+  bio = ""
   links = []

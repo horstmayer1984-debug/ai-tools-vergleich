@@ -4,7 +4,6 @@ date: 2025-02-02
 draft: false
 description: "Kompletter Guide zu DSGVO-Compliance bei KI-Tools: Rechtliche Grundlagen, Risiken, Tool-Bewertung und Praxis-Checklisten"
 tags: ["DSGVO", "Datenschutz", "Compliance", "Recht", "KI-Tools"]
-categories: ["Vergleiche"]
 showTableOfContents: true
 ---
 

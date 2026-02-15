@@ -4,7 +4,6 @@ date: 2025-02-08
 draft: false
 description: "Analyse der wichtigsten Entwicklungen im KI-Tool-Markt für 2025"
 tags: ["Trends", "2025", "KI-Entwicklung"]
-categories: ["Blog"]
 ---
 
 ## Die wichtigsten Trends

@@ -1,53 +1,79 @@
-/* Erzwinge hellen Modus ohne Dark Mode Option */
-body {
+/* ERZWINGE weißen Hintergrund überall - keine Animationen */
+body,
+html,
+#wrapper,
+.wrapper,
+main,
+.main-inner,
+[class*="background"],
+[class*="prose"] {
   background: #ffffff !important;
-  color: #000000 !important;
+  background-color: #ffffff !important;
+  background-image: none !important;
 }
 
 /* Alle Texte schwarz */
-p, h1, h2, h3, h4, h5, h6, span, div, a, li {
+body,
+p, h1, h2, h3, h4, h5, h6, 
+span:not(.icon), div, li,
+article, section {
   color: #000000 !important;
 }
 
-/* Links sichtbar machen */
+/* Links sichtbar */
 a {
   color: #0066cc !important;
-  text-decoration: underline;
 }
 
 a:hover {
   color: #004499 !important;
 }
 
-/* Keine Dark Mode Unterstützung mehr */
+/* KEINE Dark Mode Unterstützung */
 body.dark,
+html.dark,
 html.dark body,
-[data-theme="dark"] {
+[data-theme="dark"],
+.dark {
   background: #ffffff !important;
   color: #000000 !important;
 }
 
-/* Dark Mode Toggle verstecken */
+/* Verstecke Dark Mode Toggle */
+#appearance-switcher,
 .appearance-switcher,
-[data-appearance-switcher],
-button[aria-label*="appearance"],
-button[aria-label*="theme"] {
+button[title*="Appearance"],
+button[title*="Theme"],
+button[title*="appearance"],
+button[title*="theme"],
+[aria-label*="appearance"],
+[aria-label*="theme"],
+.theme-toggle,
+.appearance-toggle {
   display: none !important;
+  visibility: hidden !important;
 }
 
-/* Animationen komplett entfernen */
-.animate-fade-in,
-.animate-slide-in,
-[data-animate],
+/* ALLE Animationen ausschalten */
+*,
+*::before,
+*::after {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Hintergrund-Animationen eliminieren */
 .background,
 .animated-background,
 [class*="bg-gradient"],
-.hero {
-  animation: none !important;
+[class*="animate"],
+.hero,
+.parallax {
   background: transparent !important;
+  animation: none !important;
 }
 
-/* Artikel-Karten Hintergrund */
+/* Artikel-Karten */
 .article-card,
 .prose,
 article {
@@ -56,7 +82,7 @@ article {
 }
 
 /* Navigation */
-nav, .navbar {
+nav, .navbar, header {
   background: #f8f9fa !important;
   color: #000000 !important;
 }
@@ -67,7 +93,7 @@ footer {
   color: #000000 !important;
 }
 
-/* Code-Blöcke lesbar machen */
+/* Code-Blöcke */
 pre, code {
   background: #f5f5f5 !important;
   color: #000000 !important;
