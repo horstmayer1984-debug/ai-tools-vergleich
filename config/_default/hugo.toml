@@ -1,4 +1,4 @@
-theme = "blowfish"
+theme = "pehtheme"
 baseURL = "https://ai-tools-vergleich.de/"
 defaultContentLanguage = "de"
 disableLanguages = []
