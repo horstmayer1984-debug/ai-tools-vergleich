@@ -1,44 +1,19 @@
-theme = "pehtheme"
-baseURL = "https://ai-tools-vergleich.de/"
+theme = "pehtheme-hugo"
+baseURL = "https://horstmayer1984-debug.github.io/ai-tools-vergleich/"
 defaultContentLanguage = "de"
-disableLanguages = []
 
 enableRobotsTXT = true
-summaryLength = 10
-hasCJKLanguage = false
+summaryLength = 25
 
 buildDrafts = false
 buildFuture = false
 
-enableEmoji = false
-
-googleAnalytics = "G-PEDMYR1V0K"
-
 [pagination]
-  pagerSize = 100
-
-[imaging]
-  anchor = 'Center'
+  pagerSize = 12
 
 [taxonomies]
   tag = "tags"
-
-[sitemap]
-  changefreq = 'daily'
-  filename = 'sitemap.xml'
-  priority = 0.5
+  category = "categories"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-[related]
-  threshold = 0
-  toLower = false
-
-    [[related.indices]]
-        name = "tags"
-        weight = 100
-
-    [[related.indices]]
-        name = "date"
-        weight = 10
+  home = ["HTML", "RSS"]
