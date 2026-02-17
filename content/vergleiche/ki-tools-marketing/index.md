@@ -4,6 +4,7 @@ date: 2025-02-05
 draft: false
 description: "Umfassender Guide zu KI-Marketing-Tools: Content-Erstellung, SEO, Social Media, E-Mail-Marketing und Automatisierung"
 tags: ["Marketing", "KI-Tools", "Content", "SEO", "Social Media", "Automatisierung"]
+image: "hero.jpg"
 showTableOfContents: true
 ---
 

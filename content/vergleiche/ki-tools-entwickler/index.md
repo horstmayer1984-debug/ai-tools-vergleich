@@ -4,6 +4,7 @@ date: 2025-01-31
 draft: false
 description: "Kompletter Guide zu KI-Tools für Softwareentwicklung: Code-Completion, Testing, Debugging, Dokumentation"
 tags: ["Development", "Coding", "GitHub Copilot", "Cursor", "Developer Tools"]
+image: "hero.jpg"
 showTableOfContents: true
 ---
 

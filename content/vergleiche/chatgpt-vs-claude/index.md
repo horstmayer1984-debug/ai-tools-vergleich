@@ -4,6 +4,7 @@ date: 2025-02-08
 draft: false
 description: "Umfassender Vergleich zwischen ChatGPT und Claude: Funktionen, Kosten, Datenschutz und praktische Anwendungsfälle für deutsche Unternehmen"
 tags: ["ChatGPT", "Claude", "KI-Assistenten", "OpenAI", "Anthropic", "Vergleich"]
+image: "hero.jpg"
 showTableOfContents: true
 ---
 
