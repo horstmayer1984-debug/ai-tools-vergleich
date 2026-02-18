@@ -4,7 +4,7 @@ date: 2025-02-07
 draft: false
 description: "Ausführlicher Test von DeepSeek V3: Performance-Benchmarks, Kosten-Analyse und praktische Einsatzszenarien für Entwickler"
 tags: ["DeepSeek", "Open Source", "LLM", "China", "API", "Coding"]
-image: "hero.jpg"
+image: "reviews/deepseek-v3-review/hero.jpg"
 showTableOfContents: true
 ---
 

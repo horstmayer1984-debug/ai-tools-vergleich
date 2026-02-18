@@ -4,7 +4,7 @@ date: 2025-02-01
 draft: false
 description: "Kompakter Vergleich Claude vs ChatGPT: Welches Tool für welchen Zweck? Mit Entscheidungsmatrix"
 tags: ["Claude", "ChatGPT", "Vergleich", "Quick Guide"]
-image: "hero.jpg"
+image: "vergleiche/claude-vs-chatgpt-kurz/hero.jpg"
 ---
 
 ## TL;DR

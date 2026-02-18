@@ -4,7 +4,7 @@ date: 2025-02-03
 draft: false
 description: "Umfassender Guide zur OpenAI API: API-Key erstellen, Modelle wählen, Best Practices, Kosten optimieren und Production-Deployment"
 tags: ["OpenAI", "API", "GPT-4", "Tutorial", "Development"]
-image: "hero.jpg"
+image: "posts/openai-api-guide-2025/hero.jpg"
 showTableOfContents: true
 ---
 
