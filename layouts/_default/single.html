@@ -83,20 +83,6 @@
 
     <footer id="content-footer" class="not-prose">
 
-          </li>
-
-        </ul>
-        
-      </div>
-
-      <div id="related-post" class="">
-
-        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2>
-
-        {{- $related := .Site.RegularPages.Related . | first 2 -}}
-
-        {{- with $related -}}
-
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 
           {{- range . }}
