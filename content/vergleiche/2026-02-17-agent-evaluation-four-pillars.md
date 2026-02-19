@@ -1,7 +1,7 @@
 ---
 title: "Agent Evaluation: Die vier Säulen der Bewertung von AI Agents"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [news]
 tags: [ai, agents, evaluation, benchmarks, machine-learning]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Claude Sonnet 4.6: Dynamic Filtering für bessere Web-Suche"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [ai, llm, tools]
 tags: [claude, anthropic, web-search, dynamic-filtering, ai-tools]
 ---

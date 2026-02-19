@@ -1,7 +1,7 @@
 ---
 title: "Speculative Decoding: 2-3x schnellere LLM-Inferenz erklärt"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [news]
 tags: [ai, llm, inference, performance, machine-learning]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Versionierung und Testing von Daten: Best Practices für Data Solutions"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [news]
 tags: [ai, data-engineering, versioning, testing, mlops]
 ---

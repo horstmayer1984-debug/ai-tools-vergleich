@@ -1,7 +1,7 @@
 ---
 title: "Die 7 größten Missverständnisse über AI Agents entlarvt"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [news]
 tags: [ai, agents, machine-learning, myths]
 ---

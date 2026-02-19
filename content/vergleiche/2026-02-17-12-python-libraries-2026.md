@@ -1,7 +1,7 @@
 ---
 title: "12 Python Libraries, die Sie 2026 kennen müssen"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [news]
 tags: [ai, python, programming, libraries, data-science]
 ---

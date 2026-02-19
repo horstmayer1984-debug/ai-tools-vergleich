@@ -1,7 +1,7 @@
 ---
 title: "AI Birds Underwater Mysteries: Wie KI Vogelbeobachtung für Meeresforschung nutzt"
 date: "2026-02-17"
-draft: true
+draft: false
 categories: [news]
 tags: [ai, google-research, marine-science, machine-learning]
 ---
