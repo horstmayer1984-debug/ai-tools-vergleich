@@ -1,0 +1,12 @@
+<div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      {{ range .Site.Menus.main }}
+        <li><a class="decoration-auto hover:underline font-semibold" href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="border-t pt-4">
+    <p class="text-sm">Copyright © {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+  </div>
+</div>
