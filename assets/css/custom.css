@@ -171,3 +171,52 @@ footer > div {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* ============================================
+   FIX: Unterseiten-Layout — Artikel zentriert
+   Blowfish article grid: TOC-Spalte links drückt Content nach rechts
+   ============================================ */
+
+/* Artikel-Grid auf Unterseiten: von 2-Spalten auf 1-Spalte */
+article > .grid,
+.article-content-wrapper,
+main .grid {
+  display: block !important;
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Falls Blowfish grid-cols-* nutzt */
+.grid-cols-1,
+.md\:grid-cols-\[auto_1fr\],
+.lg\:grid-cols-\[auto_1fr\],
+[class*="grid-cols"] {
+  display: block !important;
+}
+
+/* TOC-Sidebar links verstecken wenn sie Platz frisst */
+aside.toc,
+.toc-sidebar,
+nav.toc,
+.table-of-contents-sidebar {
+  display: none !important;
+}
+
+/* Stattdessen: TOC inline im Artikel anzeigen */
+.prose .toc,
+#TableOfContents {
+  display: block !important;
+  margin-bottom: 2rem;
+}
+
+/* Artikel-Content volle Breite im Main, zentriert */
+.prose,
+.article-content,
+article .content,
+.single-content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
