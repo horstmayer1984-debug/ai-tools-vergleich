@@ -1,0 +1,287 @@
+/* ERZWINGE weißen Hintergrund überall - keine Animationen */
+body,
+html,
+#wrapper,
+.wrapper,
+main,
+.main-inner,
+[class*="background"],
+[class*="prose"] {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  background-image: none !important;
+}
+
+/* Alle Texte schwarz */
+body,
+p, h1, h2, h3, h4, h5, h6, 
+span:not(.icon), div, li,
+article, section {
+  color: #000000 !important;
+}
+
+/* Links sichtbar */
+a {
+  color: #0066cc !important;
+}
+
+a:hover {
+  color: #004499 !important;
+}
+
+/* KEINE Dark Mode Unterstützung */
+body.dark,
+html.dark,
+html.dark body,
+[data-theme="dark"],
+.dark {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Verstecke Dark Mode Toggle */
+#appearance-switcher,
+.appearance-switcher,
+button[title*="Appearance"],
+button[title*="Theme"],
+button[title*="appearance"],
+button[title*="theme"],
+[aria-label*="appearance"],
+[aria-label*="theme"],
+.theme-toggle,
+.appearance-toggle {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+/* ALLE Animationen ausschalten */
+*,
+*::before,
+*::after {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Hintergrund-Animationen eliminieren */
+.background,
+.animated-background,
+[class*="bg-gradient"],
+[class*="animate"],
+.hero,
+.parallax {
+  background: transparent !important;
+  animation: none !important;
+}
+
+/* Artikel-Karten */
+.article-card,
+.prose,
+article {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Navigation */
+nav, .navbar, header {
+  background: #f8f9fa !important;
+  color: #000000 !important;
+}
+
+/* Footer */
+footer {
+  background: #f8f9fa !important;
+  color: #000000 !important;
+}
+
+/* Code-Blöcke */
+pre, code {
+  background: #f5f5f5 !important;
+  color: #000000 !important;
+  border: 1px solid #dddddd !important;
+}
+
+/* ============================================
+   FIX: Desktop-Layout — Content zentriert statt nur rechts
+   ============================================ */
+main,
+.main,
+#main-content,
+article.main,
+.wrapper {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+}
+
+.prose {
+  max-width: 65ch !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.recent-articles,
+.article-list,
+section.recent {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.article-list,
+.recent-articles {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+  gap: 1.5rem !important;
+}
+
+.single .article-content,
+.single .prose,
+article .content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+header > div,
+nav > div {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+}
+
+footer > div {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+}
+
+@media (max-width: 768px) {
+  main, .main, .wrapper {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  .article-list, .recent-articles {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ============================================
+   FIX: Unterseiten-Layout — Artikel zentriert
+   Blowfish article grid: TOC-Spalte links drückt Content nach rechts
+   ============================================ */
+
+/* Artikel-Grid auf Unterseiten: von 2-Spalten auf 1-Spalte */
+article > .grid,
+.article-content-wrapper,
+main .grid {
+  display: block !important;
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Falls Blowfish grid-cols-* nutzt */
+.grid-cols-1,
+.md\:grid-cols-\[auto_1fr\],
+.lg\:grid-cols-\[auto_1fr\],
+[class*="grid-cols"] {
+  display: block !important;
+}
+
+/* TOC-Sidebar links verstecken wenn sie Platz frisst */
+aside.toc,
+.toc-sidebar,
+nav.toc,
+.table-of-contents-sidebar {
+  display: none !important;
+}
+
+/* Stattdessen: TOC inline im Artikel anzeigen */
+.prose .toc,
+#TableOfContents {
+  display: block !important;
+  margin-bottom: 2rem;
+}
+
+/* Artikel-Content volle Breite im Main, zentriert */
+.prose,
+.article-content,
+article .content,
+.single-content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+/* Artikel-Content volle Breite im Main, zentriert */
+.prose,
+.article-content,
+article .content,
+.single-content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+/* Artikel-Content volle Breite im Main, zentriert */
+.prose,
+.article-content,
+article .content,
+.single-content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+/* Startseite: Cards gleiche Hoehe */
+.article-card,
+article.card,
+.recent-articles article,
+.article-list article {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+}
+
+.article-card img,
+article.card img {
+  height: 200px !important;
+  object-fit: cover !important;
+  width: 100% !important;
+}
+
+/* AGGRESSIVER FIX: Unterseiten-Layout */
+/* Ueberschreibt Blowfish Grid auf Artikelseiten */
+main > div,
+main > article,
+main > section {
+  display: block !important;
+  max-width: 800px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Falls Blowfish article-grid nutzt */
+.article-grid,
+[class*="article"] > .grid,
+main .grid:not(.article-list):not(.recent-articles) {
+  display: block !important;
+}
+
+/* Verstecke leere TOC-Spalte */
+aside:empty,
+.toc-container:empty,
+nav[class*="toc"]:empty {
+  display: none !important;
+  width: 0 !important;
+}
