@@ -220,3 +220,25 @@ article .content,
   margin-right: auto !important;
   width: 100% !important;
 }
+
+/* Artikel-Content volle Breite im Main, zentriert */
+.prose,
+.article-content,
+article .content,
+.single-content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+/* Artikel-Content volle Breite im Main, zentriert */
+.prose,
+.article-content,
+article .content,
+.single-content {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
