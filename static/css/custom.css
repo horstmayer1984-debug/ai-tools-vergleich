@@ -1,0 +1,50 @@
+/* === AI-Tools-Vergleich: Sauberes Custom CSS === */
+
+/* Weisser Hintergrund, keine Animationen */
+body { background: #ffffff !important; }
+body.dark { background: #ffffff !important; color: #000000 !important; }
+
+* { animation: none !important; }
+
+/* Dark Mode Toggle verstecken */
+#appearance-switcher, .appearance-switcher,
+button[title*="appearance"], button[title*="theme"],
+[aria-label*="appearance"], [aria-label*="theme"] {
+  display: none !important;
+}
+
+/* Texte schwarz, Links blau */
+body, p, h1, h2, h3, h4, h5, h6, li, article, section { color: #000000 !important; }
+a { color: #0066cc !important; }
+a:hover { color: #004499 !important; }
+
+/* Navigation und Footer hell */
+nav, header { background: #f8f9fa !important; }
+footer { background: #f8f9fa !important; color: #000000 !important; }
+
+/* Code-Bloecke */
+pre, code { background: #f5f5f5 !important; color: #000000 !important; border: 1px solid #ddd !important; }
+
+/* Startseite: Cards gleiche Hoehe */
+.article-card, article.card,
+.recent-articles article, .article-list article {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+}
+
+.article-card img, article.card img {
+  height: 200px !important;
+  object-fit: cover !important;
+  width: 100% !important;
+}
+
+/* === UNTERSEITEN-FIX === */
+/* Der Artikel-Container hat class="max-w-4xl mx-auto mb-14" */
+/* mx-auto zentriert ihn bereits korrekt */
+/* Wir muessen nur sicherstellen, dass nichts das ueberschreibt */
+
+.max-w-4xl {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
