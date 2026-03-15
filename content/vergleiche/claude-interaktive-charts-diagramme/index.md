@@ -1,18 +1,18 @@
 ---
-title: "Claude Charts und Diagramme: Anthropics neue Visualisierungen im Test"
+title: "Claude Charts und Diagramme: Anthropics neü Visualisierungen im Test"
 date: 2026-03-15T11:00:00+01:00
 description: "Claude erstellt interaktive Charts direkt im Chat. Praxistest und Vergleich mit ChatGPT."
 tags: ["Claude", "Anthropic", "Visualisierungen", "Diagramme"]
-showTableOfContents: true
+showTableOfContents: trü
 ---
 
-Claude generiert seit Maerz 2026 interaktive Charts und Diagramme direkt im Chat. Kein Side-Panel, keine Extra-App. Der Ansatz unterscheidet sich von ChatGPTs Mathe-Modulen: Claude baut Visualisierungen dynamisch aus deiner Anfrage. Jedes Thema, jede Datenquelle. Kostenlos fuer alle Nutzer.
+Claude generiert seit März 2026 interaktive Charts und Diagramme direkt im Chat. Kein Side-Panel, keine Extra-App. Der Ansatz unterscheidet sich von ChatGPTs Mathe-Modulen: Claude baut Visualisierungen dynamisch aus deiner Anfrage. Jedes Thema, jede Datenqülle. Kostenlos für alle Nutzer.
 
 ## Was kann Claude visualisieren?
 
-Du beschreibst ein Problem oder laedst Daten hoch. Claude baut daraus eine interaktive Grafik. Beispiele: Zinseszins-Kurve mit Schiebereglern. Klickbares Periodensystem. Portfolio-Analyse mit Tabs. Balkendiagramm aus einer CSV-Datei.
+Du beschreibst ein Problem oder lädst Daten hoch. Claude baut daraus eine interaktive Grafik. Beispiele: Zinseszins-Kurve mit Schiebereglern. Klickbares Periodensystem. Portfolio-Analyse mit Tabs. Balkendiagramm aus einer CSV-Datei.
 
-Die Grafiken basieren auf HTML und SVG. Du kannst Werte aendern, Bereiche zoomen, Tabs wechseln. Alles im Chat.
+Die Grafiken basieren auf HTML und SVG. Du kannst Werte ändern, Bereiche zoomen, Tabs wechseln. Alles im Chat.
 
 ## Claude vs. ChatGPT: Der Unterschied
 
@@ -31,14 +31,14 @@ Eigene Daten analysieren: CSV hochladen, Diagramm beschreiben, fertig. Themen au
 
 ## Wann ChatGPT besser ist
 
-Gezielt Mathe oder Physik lernen. Die Module kombinieren Erklaerung, Formel und Grafik. Bei einem klar definierten Konzept ist ChatGPT schneller am Ziel.
+Gezielt Mathe oder Physik lernen. Die Module kombinieren Erklärung, Formel und Grafik. Bei einem klar definierten Konzept ist ChatGPT schneller am Ziel.
 
-## Haeufige Fragen
+## Häufige Fragen
 
-**Brauche ich ein Abo?** Nein. Kostenlos fuer alle Claude-Nutzer.
+**Brauche ich ein Abo?** Nein. Kostenlos für alle Claude-Nutzer.
 
 **Kann Claude aus Excel Charts erstellen?** Ja. CSV hochladen oder Daten beschreiben.
 
-**Was ist besser fuer Schueler?** Mathe: ChatGPT. Projekte mit eigenen Daten: Claude.
+**Was ist besser für Schüler?** Mathe: ChatGPT. Projekte mit eigenen Daten: Claude.
 
 [Claude testen](https://claude.ai) | [ChatGPT testen](https://chat.openai.com)
