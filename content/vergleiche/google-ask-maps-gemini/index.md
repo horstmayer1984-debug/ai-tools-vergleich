@@ -4,6 +4,7 @@ date: 2026-03-15T15:00:00+01:00
 description: "Google hat Ask Maps gestartet: Ein Gemini-Chatbot in Google Maps, der komplexe Fragen zu Orten und Routen beantwortet."
 tags: ["Google Maps", "Gemini", "Ask Maps", "Reiseplanung"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200"
 ---
 
 Google hat am 12. März 2026 Ask Maps in die Google-Maps-App integriert. Statt nur Routen suchen kannst du jetzt komplexe Fragen stellen: "Wo kann ich mein Handy laden, ohne lange in der Schlange zu warten?" oder "Beleuchtete Tennisplätze, die heute Abend offen sind?"

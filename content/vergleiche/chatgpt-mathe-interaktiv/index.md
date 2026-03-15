@@ -4,6 +4,7 @@ date: 2026-03-15T10:00:00+01:00
 description: "ChatGPT hat interaktive Mathe-Visualisierungen eingeführt. Praxistest mit Vergleich zu Claude und Gemini."
 tags: ["ChatGPT", "Mathe lernen", "KI Bildung", "OpenAI"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200"
 ---
 
 ChatGPT erzeugt seit dem 10. März 2026 interaktive Grafiken für Mathe und Naturwissenschaften. Du veränderst Variablen per Schieberegler, die Ergebnisse passen sich in Echtzeit an. Über 70 Konzepte sind abgedeckt. Kostenlos für alle Nutzer.

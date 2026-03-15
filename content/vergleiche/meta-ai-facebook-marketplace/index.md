@@ -4,6 +4,7 @@ date: 2026-03-15T17:00:00+01:00
 description: "Meta AI erstellt automatisch Marketplace-Inserate aus Fotos und beantwortet Käufer-Nachrichten. Was das bringt und was nicht."
 tags: ["Meta AI", "Facebook Marketplace", "KI Verkaufen"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
 ---
 
 Meta hat den Facebook Marketplace mit KI aufgerüstet. Seit dem 12. März 2026: Foto hochladen, Meta AI erstellt Titel, Beschreibung und Details. Die KI schlägt einen Preis vor basierend auf lokalen Angeboten. Käufer-Fragen wie "Ist das noch verfügbar?" beantwortet sie automatisch. Weltweit verfügbar.

@@ -4,6 +4,7 @@ date: 2026-03-15T13:00:00+01:00
 description: "Anthropic hat Claude Code Review lanciert: Mehrere KI-Agenten prüfen Pull Reqüsts gleichzeitig. Was das Tool kann und wo es an Grenzen stösst."
 tags: ["Claude Code", "Code Review", "Anthropic", "Entwickler Tools"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"
 ---
 
 Anthropic hat Code Review als Multi-Agent-System in Claude Code veröffentlicht. Mehrere KI-Agenten prüfen gleichzeitig Pull Reqüsts auf Logikfehler, Sicherheitslücken und Best Practices. Pro grossem PR findet das System im Schnitt 7,5 Issüs. Daür: etwa 20 Minuten. Verfügbar für Teams und Enterprise.

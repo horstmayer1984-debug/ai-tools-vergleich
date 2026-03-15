@@ -4,6 +4,7 @@ date: 2026-03-15T18:00:00+01:00
 description: "Adobe hat einen KI-Assistenten in Photoshop gebracht. Hintergrund entfernen, Stile ändern per Spracheingabe. Praxistest."
 tags: ["Adobe", "Photoshop", "KI Bildbearbeitung", "Firefly"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200"
 ---
 
 Adobe hat den AI Assistant in Photoshop als Public Beta gebracht. Web- und Mobile-Version. Du tippst ein, was du willst ("Entferne den Hintergrund und mache ihn unscharf"), und die KI führt die Bearbeitung aus. Firefly-Integration ist eingebaut.

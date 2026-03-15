@@ -242,3 +242,46 @@ article .content,
   margin-right: auto !important;
   width: 100% !important;
 }
+
+/* Startseite: Cards gleiche Hoehe */
+.article-card,
+article.card,
+.recent-articles article,
+.article-list article {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+}
+
+.article-card img,
+article.card img {
+  height: 200px !important;
+  object-fit: cover !important;
+  width: 100% !important;
+}
+
+/* AGGRESSIVER FIX: Unterseiten-Layout */
+/* Ueberschreibt Blowfish Grid auf Artikelseiten */
+main > div,
+main > article,
+main > section {
+  display: block !important;
+  max-width: 800px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Falls Blowfish article-grid nutzt */
+.article-grid,
+[class*="article"] > .grid,
+main .grid:not(.article-list):not(.recent-articles) {
+  display: block !important;
+}
+
+/* Verstecke leere TOC-Spalte */
+aside:empty,
+.toc-container:empty,
+nav[class*="toc"]:empty {
+  display: none !important;
+  width: 0 !important;
+}

@@ -4,6 +4,7 @@ date: 2026-03-15T11:00:00+01:00
 description: "Claude erstellt interaktive Charts direkt im Chat. Praxistest und Vergleich mit ChatGPT."
 tags: ["Claude", "Anthropic", "Visualisierungen", "Diagramme"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
 ---
 
 Claude generiert seit März 2026 interaktive Charts und Diagramme direkt im Chat. Kein Side-Panel, keine Extra-App. Der Ansatz unterscheidet sich von ChatGPTs Mathe-Modulen: Claude baut Visualisierungen dynamisch aus deiner Anfrage. Jedes Thema, jede Datenqülle. Kostenlos für alle Nutzer.

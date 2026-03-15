@@ -4,6 +4,7 @@ date: 2026-03-15T16:00:00+01:00
 description: "Microsoft hat Copilot Health gestartet: Wearable-Daten, Laborwerte und Krankenakten mit KI-Analyse zusammengeführt."
 tags: ["Microsoft", "Copilot Health", "Gesundheit", "KI Medizin"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200"
 ---
 
 Microsoft hat am 12. März 2026 Copilot Health vorgestellt. Ein separater Bereich im Copilot, der Wearable-Daten (Apple Watch, Oura), Krankenakten und Laborwerte zusammenführt. Die KI erstellt eine Gesundheitsgeschichte, gibt Einschätzungen und schlägt Fragen für den Arztbesuch vor.

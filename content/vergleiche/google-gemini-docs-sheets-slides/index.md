@@ -4,6 +4,7 @@ date: 2026-03-15T12:00:00+01:00
 description: "Google hat Gemini in Workspace integriert. Dokumente, Tabellen, Präsentationen per Textbefehl erstellen. Unser Test."
 tags: ["Gemini", "Google Workspace", "Google Docs", "KI Produktivität"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200"
 ---
 
 Google hat am 10. März 2026 Gemini in Workspace integriert. In Docs erstellt "Help me create" fertige Dokumente aus E-Mails und Drive-Dateien. In Sheets generiert Gemini Tabellen und Formeln. In Slides baut es Präsentationen. In Drive sucht "Ask Gemini" natürlich über alle Dateien.

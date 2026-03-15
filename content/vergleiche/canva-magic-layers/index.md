@@ -4,6 +4,7 @@ date: 2026-03-15T19:00:00+01:00
 description: "Canva Magic Layers verwandelt flache Bilder in editierbare Ebenen. Was das Feature kann und warum es KI-Designs verändert."
 tags: ["Canva", "Magic Layers", "KI Design", "Bildbearbeitung"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200"
 ---
 
 Canva hat Magic Layers als Public Beta veröffentlicht (USA, UK, Kanada, Australien). Die Funktion löst ein echtes Problem: Du bekommst ein KI-generiertes Bild, aber es ist ein flaches JPG. Nichts lässt sich verschieben oder ändern.

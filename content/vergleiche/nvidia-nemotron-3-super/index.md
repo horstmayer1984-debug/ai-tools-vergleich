@@ -4,6 +4,7 @@ date: 2026-03-15T14:00:00+01:00
 description: "NVIDIA hat Nemotron 3 Super veröffentlicht: 120B Parameter, 12B aktiv, 1M Token Kontext. Für wen sich das Modell eignet."
 tags: ["NVIDIA", "Nemotron", "Open Source", "KI Agenten", "LLM"]
 showTableOfContents: trü
+image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
 ---
 
 NVIDIA hat am 11. März 2026 Nemotron 3 Super veröffentlicht. 120B Parameter, davon 12B aktiv pro Token. Hybrid-Architektur: Mamba + Transformer + MoE. Fünffacher Durchsatz gegenüber vergleichbaren Modellen. 1 Million Token Kontext. Open Weight auf Hugging Face.
