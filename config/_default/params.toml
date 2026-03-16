@@ -1,2 +1,22 @@
-description = "KI-Tools im Vergleich — Tests, Analysen und Empfehlungen für ChatGPT, Claude, Gemini und mehr"
-mainSections = ["posts", "vergleiche", "reviews"]
+[homepage]
+  layout = "page"
+  showRecent = true
+  showRecentItems = 12
+  cardView = true
+
+[article]
+  showDate = true
+  showDateUpdated = true
+  showAuthor = false
+  showTableOfContents = true
+  showRelatedContent = true
+  showBreadcrumbs = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = false
+  showScrollToTop = true
+
+[privacy]
+  disablePrivacySettings = true

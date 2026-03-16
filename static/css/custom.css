@@ -1,9 +1,10 @@
-/* === AI-Tools-Vergleich: Sauberes Custom CSS === */
+/* === AI-Tools-Vergleich Custom CSS === */
 
-/* Weisser Hintergrund, keine Animationen */
+/* Weisser Hintergrund */
 body { background: #ffffff !important; }
 body.dark { background: #ffffff !important; color: #000000 !important; }
 
+/* Keine Animationen */
 * { animation: none !important; }
 
 /* Dark Mode Toggle verstecken */
@@ -18,7 +19,7 @@ body, p, h1, h2, h3, h4, h5, h6, li, article, section { color: #000000 !importan
 a { color: #0066cc !important; }
 a:hover { color: #004499 !important; }
 
-/* Navigation und Footer hell */
+/* Navigation und Footer */
 nav, header { background: #f8f9fa !important; }
 footer { background: #f8f9fa !important; color: #000000 !important; }
 
@@ -39,12 +40,17 @@ pre, code { background: #f5f5f5 !important; color: #000000 !important; border: 1
   width: 100% !important;
 }
 
-/* === UNTERSEITEN-FIX === */
-/* Der Artikel-Container hat class="max-w-4xl mx-auto mb-14" */
-/* mx-auto zentriert ihn bereits korrekt */
-/* Wir muessen nur sicherstellen, dass nichts das ueberschreibt */
+/* TOC rechts: Sticky-Position */
+#TableOfContents {
+  position: sticky;
+  top: 5rem;
+}
 
-.max-w-4xl {
-  margin-left: auto !important;
-  margin-right: auto !important;
+#TableOfContents a {
+  font-size: 0.9rem;
+  color: #0066cc !important;
+}
+
+#TableOfContents a:hover {
+  color: #004499 !important;
 }
