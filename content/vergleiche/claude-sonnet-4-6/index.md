@@ -17,7 +17,7 @@ Anthropic hat mit Claude Sonnet 4.6 eine значительVerbesserung der Web-
 
 Dynamic Filtering ist eine Technik, bei der Claude während der Web-Suche Python-Code ausführt, um Ergebnisse zu filtern, bevor sie in den Context geladen werden. Statt ganze HTML-Seiten zu verarbeiten, extrahiert das Modell nur die relevanten Informationen.
 
-### Vorteile im Überblick
+### Vorteile im Ueberblick
 
 - **Weniger Token:** 24% Reduktion der Input-Token
 - **Höhere Genauigkeit:** 11% Verbesserung in Benchmarks

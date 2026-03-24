@@ -46,7 +46,7 @@ ACID-Transaktionen für Spark und Data Lakes. Time Travel Queries inklusive.
 Deklarative Expectations für Daten. Automatische Documentation.
 
 ###ydata-profiling (formerly pandas-profiling)
-Automatische Profiling-Reports. Schneller Überblick über Datenqualität.
+Automatische Profiling-Reports. Schneller Ueberblick über Datenqualität.
 
 ### Soda Core
 SQL-basierte Data Quality Checks. Declarative und skalierbar.

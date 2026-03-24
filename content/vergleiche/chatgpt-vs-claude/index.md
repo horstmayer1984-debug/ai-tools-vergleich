@@ -14,7 +14,7 @@ Die beiden führenden KI-Assistenten ChatGPT von OpenAI und Claude von Anthropic
 
 In diesem umfassenden Vergleich analysieren wir beide Plattformen nach Kriterien wie Leistung, Kosten, Datenschutz-Compliance, Benutzerfreundlichkeit und Enterprise-Funktionen.
 
-## Technische Grundlagen im Überblick
+## Technische Grundlagen im Ueberblick
 
 ### ChatGPT (OpenAI)
 

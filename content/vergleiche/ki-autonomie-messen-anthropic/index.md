@@ -25,7 +25,7 @@ meta_desc: "Wer programmiert besser: Claude Code oder ChatGPT? Ein direkter Verg
 | Kontextfenster (wie viel Text auf einmal) | 200.000 Wörter | 128.000 Wörter | 32.000 Wörter |
 | API verfügbar | Ja | Ja | Nein |
 | Datenschutz | Streng (EU) | Mittel | Mittel |
-| Typische Schwäche | Braucht Zeit zum Starten | Verliert den Überblick | Nur im Editor |
+| Typische Schwäche | Braucht Zeit zum Starten | Verliert den Ueberblick | Nur im Editor |
 
 ---
 
@@ -65,7 +65,7 @@ Am besten geeignet für:
 - Lernen und Verstehen
 - Einzelne Funktionen debuggen
 
-Die Schwäche: Wenn die Sitzung lang wird, verliert er den Überblick.
+Die Schwäche: Wenn die Sitzung lang wird, verliert er den Ueberblick.
 
 ### GitHub Copilot
 
