@@ -1,3 +1,33 @@
+[[main]]
+  name = "Claude"
+  url = "/tags/claude/"
+  weight = 10
+
+[[main]]
+  name = "ChatGPT"
+  url = "/tags/chatgpt/"
+  weight = 20
+
+[[main]]
+  name = "Gemini"
+  url = "/tags/gemini/"
+  weight = 30
+
+[[main]]
+  name = "Cursor"
+  url = "/tags/cursor/"
+  weight = 40
+
+[[main]]
+  name = "Perplexity"
+  url = "/tags/perplexity/"
+  weight = 50
+
+[[main]]
+  name = "Vergleiche"
+  url = "/vergleiche/"
+  weight = 60
+
 [[footer]]
   name = "Impressum"
   pageRef = "impressum"
