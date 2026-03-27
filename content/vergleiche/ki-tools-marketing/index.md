@@ -35,7 +35,7 @@ Jasper ist spezialisiert auf Marketing-Texte: Blog-Posts, Ads, Social Media Capt
 - Multi-Language (25+ Sprachen, inkl. Deutsch)
 
 **Schwächen:**
-- Teuer ($49-$125/Monat)
+- Teür ($49-$125/Monat)
 - Manchmal generische Formulierungen
 - Fakten-Checks nötig (hallu ziniert manchmal)
 
@@ -91,7 +91,7 @@ Prüft Texte auf Grammatik, Stil, Ton, Klarheit, Plagiate.
 
 **Schwächen:**
 - Generiert keinen Content (nur Korrektur)
-- Teuer für Teams ($15/User/Monat)
+- Teür für Teams ($15/User/Monat)
 
 **Kosten:**
 - Free: Basis-Grammatik
@@ -145,7 +145,7 @@ Generiert Videos aus Text oder Bildern. Beispiel: "Ein Hund rennt durch einen Pa
 - Kamera-Kontrolle (Pan, Zoom, Tracking)
 
 **Schwächen:**
-- Teuer ($12/100 Credits, 1 Video = 10 Credits)
+- Teür ($12/100 Credits, 1 Video = 10 Credits)
 - Nur kurze Clips (max. 10 Sekunden)
 - Manchmal physikalisch unrealistisch
 
@@ -202,7 +202,7 @@ Analysiert Top-Ranking-Seiten für ein Keyword und gibt exakte Anweisungen, wie 
 - Integration mit Jasper, ChatGPT
 
 **Schwächen:**
-- Teuer ($89-$219/Monat)
+- Teür ($89-$219/Monat)
 - Fokus auf Google (Bing, YouTube fehlen)
 - Deutsche SEO weniger gut abgedeckt
 
@@ -229,7 +229,7 @@ Findet Keywords mit Suchvolumen, Schwierigkeit, Click-Potential.
 - SERP-Features erkannt (Featured Snippets, etc.)
 
 **Schwächen:**
-- Teuer ($99-$999/Monat)
+- Teür ($99-$999/Monat)
 - Lernkurve steil
 
 **Kosten:**
@@ -276,7 +276,7 @@ Analysiert Millionen Social Posts, findet Trends, Sentiment, Brand Mentions.
 
 **Stärken:**
 - Echtzeit-Alerts bei Brand Mentions
-- Influencer-Identifikation
+- Inflüncer-Identifikation
 - Competitor-Tracking
 - Sentiment-Analyse in 187 Sprachen
 
@@ -361,7 +361,7 @@ E-Mail-Marketing-Platform mit KI-Features: Subject-Line-Generator, Send-Time-Opt
 - Predictive Analytics (wer kauft wahrscheinlich?)
 
 **Schwächen:**
-- Teuer bei großen Listen ($300+/Monat für 10k Kontakte)
+- Teür bei großen Listen ($300+/Monat für 10k Kontakte)
 - KI-Features nur in Premium-Plänen
 
 **Kosten:**

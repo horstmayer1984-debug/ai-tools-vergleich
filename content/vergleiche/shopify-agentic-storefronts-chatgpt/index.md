@@ -9,13 +9,13 @@ showTableOfContents: true
 showRelatedContent: true
 ---
 
-Shopify hat am 24. März 2026 Agentic Storefronts gestartet. Millionen Händler können ab sofort ihre Produkte direkt in ChatGPT präsentieren und verkaufen. Kunden müssen die KI App nicht verlassen. Ein Nutzer fragt "Zeig mir die besten Running Shorts unter 50 Euro" und bekommt Produkte mit aktüllen Preisen, Bildern und Bestandsdaten angezeigt. Der Kauf wird direkt im Chat abgeschlossen.
+Shopify hat am 24. März 2026 Agentic Storefronts gestartet. Millionen Händler können ab sofort ihre Produkte direkt in ChatGPT präsentieren und verkaufen. Kunden müssen die KI App nicht verlassen. Ein Nutzer fragt "Zeig mir die besten Running Shorts unter 50 Euro" und bekommt Produkte mit aktuellen Preisen, Bildern und Bestandsdaten angezeigt. Der Kauf wird direkt im Chat abgeschlossen.
 
 Die Funktion ist standardmässig aktiviert. Händler müssen nichts einrichten.
 
 ## Wie Agentic Storefronts technisch funktionieren
 
-Die Technologie basiert auf dem Shopify Catalog. Dieser strukturiert Produktdaten, bereinigt sie und syndiziert sie automatisch an KI Plattformen. Preise, Lagerbestände und Varianten bleiben synchron. Kein manülles Füttern von Feeds nötig.
+Die Technologie basiert auf dem Shopify Catalog. Dieser strukturiert Produktdaten, bereinigt sie und syndiziert sie automatisch an KI Plattformen. Preise, Lagerbestände und Varianten bleiben synchron. Kein manuelles Füttern von Feeds nötig.
 
 Wenn ein Kunde in ChatGPT nach einem Produkt fragt, durchsucht die KI den Shopify Catalog und zeigt passende Ergebnisse an. Per Buy Button wird der Kauf direkt im Chat abgeschlossen. Shipping, Zahlung und Checkout laufen über Shopify Infrastruktur.
 
@@ -33,7 +33,7 @@ Im Shopify Admin unter Settings, Sales Channels, Agentic Storefronts. Die Kanäl
 
 Optional: Den In Chat Checkout deaktivieren. Dann leitet die KI Kunden auf deinen normalen Shop weiter. Das ist sinnvoll wenn du volle Markenkontrolle behalten willst.
 
-Für bessere Ergebnisse in KI Antworten: Produktdaten pflegen. Klare Titel, detaillierte Beschreibungen, hochwertige Bilder und strukturierte Attribute wie Farbe, Grösse und Material. Lagerbestände und Preise aktüll halten. KI zeigt nur verfügbare Ware an.
+Für bessere Ergebnisse in KI Antworten: Produktdaten pflegen. Klare Titel, detaillierte Beschreibungen, hochwertige Bilder und strukturierte Attribute wie Farbe, Grösse und Material. Lagerbestände und Preise aktuell halten. KI zeigt nur verfügbare Ware an.
 
 ## Was das für den E Commerce bedeutet
 

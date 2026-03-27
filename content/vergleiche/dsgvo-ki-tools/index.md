@@ -63,9 +63,9 @@ Die Datenschutz-Grundverordnung (DSGVO/GDPR) ist seit Mai 2018 in der gesamten E
 - Politische Meinungen
 - Religionszugehörigkeit
 - Gewerkschaftszugehörigkeit
-- Sexuelle Orientierung
+- Sexülle Orientierung
 
-**Konsequenz:** Diese Daten dürfen Sie NIEMALS in KI-Tools eingeben (außer mit expliziter Einwilligung + DPA).
+**Konseqünz:** Diese Daten dürfen Sie NIEMALS in KI-Tools eingeben (außer mit expliziter Einwilligung + DPA).
 
 ---
 
@@ -105,7 +105,7 @@ User gibt ein: "Kunde [ANON-ID-12345] kaufte Produkt X für €500"
 Nach Art. 28 DSGVO muss jeder Auftragsverarbeiter (= Tool-Anbieter) einen AVV mit Ihnen abschließen.
 
 **Inhalt:**
-- Zweck und Dauer der Verarbeitung
+- Zweck und Daür der Verarbeitung
 - Art der Daten
 - Pflichten des Verarbeiters
 - Technische und organisatorische Maßnahmen (TOMs)
@@ -134,7 +134,7 @@ Die meisten Anbieter haben "No-Training"-Policies:
 - **Anthropic:** Strikte No-Training-Policy
 - **Google:** Workspace-Daten werden nicht für Training genutzt (Consumer-Gemini schon!)
 
-**Aber:** Vertrauen allein reicht nicht – AVV muss es schriftlich festhalten!
+**Aber:** Vertraün allein reicht nicht – AVV muss es schriftlich festhalten!
 
 ### Problem 4: Shadow IT
 
@@ -310,7 +310,7 @@ Nutzen Sie Enterprise + pseudonymisieren Sie Daten + dokumentieren Sie TOM
 **Quartalsweise:**
 - [ ] Mitarbeiter-Schulung wiederholen
 - [ ] Policy-Compliance prüfen (werden Regeln eingehalten?)
-- [ ] Anbieter-Updates prüfen (neue Privacy-Features?)
+- [ ] Anbieter-Updates prüfen (neü Privacy-Features?)
 
 **Jährlich:**
 - [ ] DSFA aktualisieren
@@ -344,7 +344,7 @@ Nutzen Sie Enterprise + pseudonymisieren Sie Daten + dokumentieren Sie TOM
    - Mitarbeiterdaten
    - Vertragsinhalte
    - Geschäftsgeheimnisse
-   - Quellcode mit Credentials
+   - Qüllcode mit Credentials
 
 4. BEI VERSTOBEN
    - 1. Verstoß: Verwarnung

@@ -13,7 +13,7 @@ Cursor ist ein KI Codeeditor der direkt in den Entwicklungsworkflow eingreift. K
 
 ## Refactoring über mehrere Dateien
 
-Hier stossen viele Entwickler mit normalen Copilots an Grenzen. Sobald Änderungen nicht nur eine Funktion sondern mehrere Module, Imports, Tests und Hilfsdateien betreffen steigt der manülle Aufwand. Cursor Agent führt mehrdateilige Änderungen aus und stellt Diffs zur Prüfung bereit. Ein Entwickler beschreibt in natürlicher Sprache was geändert werden soll. Cursor setzt es um.
+Hier stossen viele Entwickler mit normalen Copilots an Grenzen. Sobald Änderungen nicht nur eine Funktion sondern mehrere Module, Imports, Tests und Hilfsdateien betreffen steigt der manuelle Aufwand. Cursor Agent führt mehrdateilige Änderungen aus und stellt Diffs zur Prüfung bereit. Ein Entwickler beschreibt in natürlicher Sprache was geändert werden soll. Cursor setzt es um.
 
 ## Bugfixing mit Kontext aus Code und Terminal
 

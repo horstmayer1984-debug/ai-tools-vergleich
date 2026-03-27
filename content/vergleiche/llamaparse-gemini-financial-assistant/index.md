@@ -27,7 +27,7 @@ Beträge, Zahlungsziele und Lieferanten aus PDFs extrahieren. Automatische Buchu
 
 ### Finanzberichte analysieren
 
-KPIs aus Jahresberichten extrahieren ohne jede Seite manüll lesen zu müssen. Trendanalysen über mehrere Quartale. Risiko Bewertungen basierend auf konkreten Kennzahlen.
+KPIs aus Jahresberichten extrahieren ohne jede Seite manuell lesen zu müssen. Trendanalysen über mehrere Quartale. Risiko Bewertungen basierend auf konkreten Kennzahlen.
 
 ### Entscheidungsunterstützung im Tagesgeschäft
 

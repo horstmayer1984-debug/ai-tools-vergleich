@@ -39,7 +39,7 @@ Die Seitenlängen a und b lassen sich frei bewegen. Die Hypotenuse c berechnet s
 
 Offline geht nichts. Die Module laufen auf OpenAIs Servern. Ohne Internetverbindung bekommst du nur Text. Export gibt es ebenfalls nicht. Du kannst die Grafiken weder als Bild noch als Code speichern. Für Lehrer die Unterrichtsmaterial vorbereiten wollen ist das ein echtes Manko. Screenshots bleiben die einzige Option.
 
-Die Module lösen keine individüllen Aufgaben. Wenn du fragst "Berechne die Fläche eines Dreiecks mit a gleich 5, b gleich 7, c gleich 8" bekommst du eine Rechnung aber kein passendes interaktives Modul. Die Visualisierungen sind Erklärwerkzeuge, keine Aufgabenlöser.
+Die Module lösen keine individuellen Aufgaben. Wenn du fragst "Berechne die Fläche eines Dreiecks mit a gleich 5, b gleich 7, c gleich 8" bekommst du eine Rechnung aber kein passendes interaktives Modul. Die Visualisierungen sind Erklärwerkzeuge, keine Aufgabenlöser.
 
 ## ChatGPT vs Claude vs Gemini: Welches KI Tool erklärt Mathe am besten
 
@@ -82,7 +82,7 @@ Nicht direkt. Die Module laufen nur innerhalb des ChatGPT Chats. Du kannst Scree
 Ja. Die ChatGPT App für iOS und Android unterstützt die interaktiven Elemente vollständig. Schieberegler lassen sich per Touch bedienen.
 
 **Welche Mathe Themen werden als nächstes hinzugefügt?**
-OpenAI hat Erweiterungen für Chemie und Biologie angekündigt aber keinen Zeitplan genannt. Die aktülle Liste umfasst 70 Konzepte aus Mathematik, Physik und Wirtschaft.
+OpenAI hat Erweiterungen für Chemie und Biologie angekündigt aber keinen Zeitplan genannt. Die aktuelle Liste umfasst 70 Konzepte aus Mathematik, Physik und Wirtschaft.
 
 **Kann ChatGPT meine Mathe Hausaufgaben mit den Grafiken lösen?**
 Die Module erklären Konzepte, lösen aber keine spezifischen Aufgaben. Für Aufgabenhilfe nutze den Study Mode der dich Schritt für Schritt durch den Lösungsweg führt. Bei komplexen Textaufgaben passieren noch Fehler. Immer gegenchecken.

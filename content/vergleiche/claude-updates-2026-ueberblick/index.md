@@ -2,14 +2,14 @@
 title: "Claude Updates 2026: 22 neü Features in drei Monaten"
 date: 2026-03-24T13:00:00+01:00
 lastmod: 2026-03-24T13:00:00+01:00
-description: "Anthropic hat zwischen Januar und März 2026 22 Updates für Claude veröffentlicht. Kompletter Ueberblick über alle Features von Cowork bis Auto Mode."
+description: "Anthropic hat zwischen Januar und März 2026 22 Updates für Claude veröffentlicht. Kompletter Überblick über alle Features von Cowork bis Auto Mode."
 tags: ["Claude", "Anthropic", "Updates 2026", "Cowork", "Opus 4.6", "Claude Code"]
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
 showTableOfContents: true
 showRelatedContent: true
 ---
 
-Anthropic hat zwischen Januar und März 2026 22 bedeutende Updates für Claude veröffentlicht. Das sind im Schnitt fast acht pro Monat. Ein viraler X Post von TawohAwa fasst die Entwicklung zusammen. Hier der komplette Ueberblick über alle Features und was sie für Nutzer bedeuten.
+Anthropic hat zwischen Januar und März 2026 22 bedeutende Updates für Claude veröffentlicht. Das sind im Schnitt fast acht pro Monat. Ein viraler X Post von TawohAwa fasst die Entwicklung zusammen. Hier der komplette Überblick über alle Features und was sie für Nutzer bedeuten.
 
 ## Alle 22 Updates chronologisch
 

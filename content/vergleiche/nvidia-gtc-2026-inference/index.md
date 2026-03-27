@@ -37,7 +37,7 @@ Agenturen, Systemhäuser und Software Dienstleister die heute Reporting, Content
 
 Für den deutschen Werbe und MarTech Markt ist der Inference Trend direkt spürbar. Kunden erwarten schnellere Kreation, mehr Varianten, höhere Taktung und datenbasierte Optimierung. Wenn Inference billiger und standardisierter wird setzen nicht nur grosse Konzerne sondern auch Mittelständler produktive KI in Marketing, Commerce und CRM ein.
 
-Der operative Druck auf Agenturen steigt bereits. Wer manüll Reportings baut, Content einzeln erstellt oder Kampagnen ohne KI Unterstützung plant verliert gegenüber Wettbewerbern die ihre Prozesse mit Inference basierten Agenten beschleunigen.
+Der operative Druck auf Agenturen steigt bereits. Wer manuell Reportings baut, Content einzeln erstellt oder Kampagnen ohne KI Unterstützung plant verliert gegenüber Wettbewerbern die ihre Prozesse mit Inference basierten Agenten beschleunigen.
 
 ## Was die GTC 2026 für die KI Strategie in Deutschland bedeutet
 

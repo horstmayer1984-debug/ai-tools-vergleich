@@ -53,7 +53,7 @@ Wenn du mit Microsoft Office arbeitest und regelmässig von Excel zu PowerPoint 
 
 Wenn Präzision wichtiger ist als Geschwindigkeit. Claude hat eine niedrigere Halluzinationsrate als Gemini. Für Finanzberichte, Compliance Dokumente oder Management Summaries ist das ein relevanter Vorteil.
 
-Wenn du Workflows standardisieren willst. Reusable Skills in Claude speichern definierte Abläufe die das ganze Team nutzen kann. Das liefert konsistentere Ergebnisse als individülle Prompts.
+Wenn du Workflows standardisieren willst. Reusable Skills in Claude speichern definierte Abläufe die das ganze Team nutzen kann. Das liefert konsistentere Ergebnisse als individuelle Prompts.
 
 ## Was viele Unternehmen in der Praxis tun
 

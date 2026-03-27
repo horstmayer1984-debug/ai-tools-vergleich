@@ -23,7 +23,7 @@ Bei klaren Motiven mit scharfen Kanten funktioniert die Hintergrundentfernung zu
 
 ### Stil ändern
 
-"Mache das Bild wärmer" oder "Füge einen Vintage Look hinzu" liefert brauchbare Ergebnisse als Startpunkt. Für präzise Farbkorrekturen bleibt manülle Arbeit mit Kurven und Ebenen nötig.
+"Mache das Bild wärmer" oder "Füge einen Vintage Look hinzu" liefert brauchbare Ergebnisse als Startpunkt. Für präzise Farbkorrekturen bleibt manuelle Arbeit mit Kurven und Ebenen nötig.
 
 ### Schritt für Schritt Anleitungen
 
@@ -35,7 +35,7 @@ Gelegenheitsnutzer die schnelle Korrekturen brauchen ohne Photoshop Expertise. H
 
 Content Creator die Produktbilder bearbeiten und Zeit sparen wollen. Produktfoto vor weissem Hintergrund freistellen, Schatten hinzufügen, Grösse anpassen. Der Workflow wird deutlich schneller.
 
-Profis werden den Assistant als Beschleuniger für Routineaufgaben nutzen. Nicht als Ersatz für manülles Arbeiten bei anspruchsvollen Retuschen oder Composings.
+Profis werden den Assistant als Beschleuniger für Routineaufgaben nutzen. Nicht als Ersatz für manuelles Arbeiten bei anspruchsvollen Retuschen oder Composings.
 
 ## Vergleich mit Alternativen
 
@@ -58,7 +58,7 @@ Ja. In der Photoshop Mobile App sind die AI Assistant Funktionen verfügbar.
 Für professionelle Ergebnisse ja. Für schnelle Social Media Grafiken ist Canva einfacher und günstiger. Die Wahl hängt von deinen Anforderungen ab.
 
 **Kann der AI Assistant komplexe Retuschen durchführen?**
-Einfache Retuschen wie Hautunreinheiten entfernen funktionieren gut. Komplexe Composings und Freqünztrennung bleiben manüllen Workflows vorbehalten.
+Einfache Retuschen wie Hautunreinheiten entfernen funktionieren gut. Komplexe Composings und Freqünztrennung bleiben manuellen Workflows vorbehalten.
 
 **Werden meine Bilder für KI Training verwendet?**
 Adobe hat erklärt dass Inhalte von Creative Cloud Nutzern nicht für das Training generativer KI Modelle verwendet werden.

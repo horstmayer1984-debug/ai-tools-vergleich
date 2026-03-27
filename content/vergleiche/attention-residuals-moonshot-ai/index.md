@@ -41,9 +41,9 @@ Scaling Law Experimente bestätigen den Vorteil über verschiedene Modellgrösse
 
 ## Ist Attention Residuals bereits in Kimi 2.5 enthalten
 
-Nein. Kimi 2.5 wurde im Januar 2026 veröffentlicht und basiert auf einer MoE Architektur mit einer Billion Parametern. Attention Residuals wurde separat auf dem Kimi Linear Prototyp getestet und ist nicht in die aktülle öffentliche Version integriert.
+Nein. Kimi 2.5 wurde im Januar 2026 veröffentlicht und basiert auf einer MoE Architektur mit einer Billion Parametern. Attention Residuals wurde separat auf dem Kimi Linear Prototyp getestet und ist nicht in die aktuelle öffentliche Version integriert.
 
-Alles deutet darauf hin dass Moonshot AI die Methode in künftige Versionen einbaün wird. Für Nutzer der aktüllen Kimi Version ändert sich vorerst nichts.
+Alles deutet darauf hin dass Moonshot AI die Methode in künftige Versionen einbaün wird. Für Nutzer der aktuellen Kimi Version ändert sich vorerst nichts.
 
 ## Was das für die KI Branche bedeutet
 

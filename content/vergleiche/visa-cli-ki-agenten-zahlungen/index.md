@@ -49,7 +49,7 @@ Gehe auf visacli.sh. Führe im Terminal aus: reqüst access. Authentifiziere mit
 
 KI Agenten werden 2026 zu eigenständigen Wirtschaftsteilnehmern. Sie kaufen Compute, bezahlen APIs, rufen Datenqüllen ab und erledigen komplette Workflows. Visa CLI liefert die Zahlungsinfrastruktur die dafür bisher fehlte.
 
-Für Entwickler bedeutet das weniger manülles Payment Management. Für Agent Plattformen wie Cursor, Claude Code oder OpenClaw bedeutet es mächtigere autonome Workflows. Für Unternehmen bedeutet es neü Fragen: Wer kontrolliert das Budget eines Agenten? Wer haftet bei Fehlbuchungen? Welche Governance Regeln gelten?
+Für Entwickler bedeutet das weniger manuelles Payment Management. Für Agent Plattformen wie Cursor, Claude Code oder OpenClaw bedeutet es mächtigere autonome Workflows. Für Unternehmen bedeutet es neü Fragen: Wer kontrolliert das Budget eines Agenten? Wer haftet bei Fehlbuchungen? Welche Governance Regeln gelten?
 
 Diese Fragen sind noch nicht beantwortet. Visa CLI ist ein experimentelles Produkt in einer geschlossenen Beta. Die Technik funktioniert. Die organisatorischen und rechtlichen Rahmenbedingungen müssen noch wachsen.
 
@@ -62,10 +62,10 @@ Ja. Durch die MPP Integration sind hybride Zahlungen mit Visa Karte und Stableco
 Das Tool selbst ist in der Beta kostenlos. Für Zahlungen fallen normale Visa Gebühren an.
 
 **Kann ich Visa CLI für normales Online Shopping nutzen?**
-Noch nicht. Das Tool ist aktüll auf Developer und API Use Cases ausgerichtet. Eine Consumer Version ist nicht angekündigt.
+Noch nicht. Das Tool ist aktuell auf Developer und API Use Cases ausgerichtet. Eine Consumer Version ist nicht angekündigt.
 
 **Welche Agenten Plattformen unterstützen Visa CLI?**
 Offiziell noch keine direkte Integration. Entwickler berichten von erfolgreichen Tests mit Claude Code, Cursor und eigenen Agent Setups. Offizielle Integrationen werden erwartet.
 
 **Wie verhindere ich dass mein Agent zu viel ausgibt?**
-Budget Limits müssen aktüll manüll implementiert werden. Visa hat keine eingebauten Spending Controls für Agenten veröffentlicht. Das ist ein offener Punkt der vor produktivem Einsatz geklärt werden muss.
+Budget Limits müssen aktuell manuell implementiert werden. Visa hat keine eingebauten Spending Controls für Agenten veröffentlicht. Das ist ein offener Punkt der vor produktivem Einsatz geklärt werden muss.

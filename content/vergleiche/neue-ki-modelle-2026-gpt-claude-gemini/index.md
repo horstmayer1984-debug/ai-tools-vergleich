@@ -33,7 +33,7 @@ Das heisst nicht dass KI menschliche Strategie ersetzt. Der operative Anteil an 
 
 ## Was das für Marketing in Deutschland bedeutet
 
-Für Marketing ist die Verbindung aus Modellleistung und Tool Einbettung entscheidend. Ein Marketing Team das Claude für Excel Analysen und PowerPoint Decks nutzt, Gemini für Google Sheets Reportings einsetzt und GPT 5.4 für Recherche und Content verwendet arbeitet auf einem anderen Effizienzniveau als ein Team das alles manüll macht.
+Für Marketing ist die Verbindung aus Modellleistung und Tool Einbettung entscheidend. Ein Marketing Team das Claude für Excel Analysen und PowerPoint Decks nutzt, Gemini für Google Sheets Reportings einsetzt und GPT 5.4 für Recherche und Content verwendet arbeitet auf einem anderen Effizienzniveau als ein Team das alles manuell macht.
 
 Die Modelle ersetzen keine Strategie. Sie komprimieren die operative Umsetzung. Ein Kampagnenplan der früher zwei Tage daürte entsteht in vier Stunden. Ein Performance Report der früher einen halben Tag brauchte ist in 30 Minuten fertig.
 
@@ -52,7 +52,7 @@ Es gibt kein einzelnes bestes Modell. Die Wahl hängt vom Einsatzbereich ab: Cla
 Für Teams die professionelle Wissensarbeit mit KI unterstützen ja. Die Verbesserungen bei Reasoning und Tool Integration sind messbar. Für einfache Chat Aufgaben reicht weiterhin ein günstigeres Modell.
 
 **Kann ich verschiedene Modelle kombinieren?**
-Ja. Viele Unternehmen setzen hybrid: Gemini für Google Umgebungen, Claude für Microsoft Office, GPT für allgemeine Aufgaben. Das ist aktüll die pragmatischste Strategie.
+Ja. Viele Unternehmen setzen hybrid: Gemini für Google Umgebungen, Claude für Microsoft Office, GPT für allgemeine Aufgaben. Das ist aktuell die pragmatischste Strategie.
 
 **Sind die Benchmark Werte verlässlich?**
 Herstellerbenchmarks zeigen Tendenzen. Für die eigene Entscheidung sind Tests mit eigenen Daten und Aufgaben aussagekräftiger als generische Benchmark Vergleiche.

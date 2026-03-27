@@ -13,7 +13,7 @@ Google hat zwischen dem 20. und 22. März 2026 praktische Entwickler Updates gel
 
 ## Wie Vibe Coding in Google AI Studio funktioniert
 
-Du beschreibst in natürlicher Sprache was du baün willst. Der Google Antigravity Agent übernimmt die Orchestrierung. Von der Idee bis zur Deployment URL passiert alles in einem Flow. Kein manülles Orchestrieren, keine teuren Multi Call Rechnungen.
+Du beschreibst in natürlicher Sprache was du baün willst. Der Google Antigravity Agent übernimmt die Orchestrierung. Von der Idee bis zur Deployment URL passiert alles in einem Flow. Kein manuelles Orchestrieren, keine teuren Multi Call Rechnungen.
 
 Neü Cost Control Features mit Spend Caps schützen vor unerwarteten API Kosten. Für kleine Teams und Solopreneure senkt das die Einstiegshürde drastisch. Apps die früher Wochen brauchten entstehen in Stunden.
 
@@ -35,7 +35,7 @@ Gemini nutzt jetzt Daten aus Gmail, Photos und YouTube für personalisierte Antw
 
 Google setzt auf Zugänglichkeit und Integration. Vibe Coding und Stitch senken die Hürde für Entwickler. OpenAI baut eine All in One Desktop App. Anthropic vertieft sichere Autonomie mit Claude Code.
 
-Für Entwickler die schnell prototypen wollen ist Google AI Studio aktüll der schnellste Weg.
+Für Entwickler die schnell prototypen wollen ist Google AI Studio aktuell der schnellste Weg.
 
 ## Häufige Fragen
 

@@ -11,13 +11,13 @@ image: "vergleiche/claude-sonnet-4-6/hero.jpg"
 
 ## Einführung
 
-Anthropic hat mit Claude Sonnet 4.6 eine значительVerbesserung der Web-Suchfunktion veröffentlicht. Das neue Dynamic Filtering ermöglicht es dem Modell, Suchergebnisse direkt zu verarbeiten und nur relevante Inhalte in den Context zu laden. Das Ergebnis: 11% höhere Genauigkeit bei 24% weniger Input-Token.
+Anthropic hat mit Claude Sonnet 4.6 eine значительVerbesserung der Web-Suchfunktion veröffentlicht. Das neü Dynamic Filtering ermöglicht es dem Modell, Suchergebnisse direkt zu verarbeiten und nur relevante Inhalte in den Context zu laden. Das Ergebnis: 11% höhere Genauigkeit bei 24% weniger Input-Token.
 
 ## Was ist Dynamic Filtering?
 
 Dynamic Filtering ist eine Technik, bei der Claude während der Web-Suche Python-Code ausführt, um Ergebnisse zu filtern, bevor sie in den Context geladen werden. Statt ganze HTML-Seiten zu verarbeiten, extrahiert das Modell nur die relevanten Informationen.
 
-### Vorteile im Ueberblick
+### Vorteile im Überblick
 
 - **Weniger Token:** 24% Reduktion der Input-Token
 - **Höhere Genauigkeit:** 11% Verbesserung in Benchmarks
@@ -50,7 +50,7 @@ Claude Sonnet 4.6 eignet sich besonders für:
 
 - **Entwickler:** Die Web-Suchfunktionen in Agents integrieren
 - **Forscher:** Mehrstufige Recherchen durchführen
-- **Content-Ersteller:** Aktuelle Informationen schnell finden
+- **Content-Ersteller:** Aktülle Informationen schnell finden
 - **Unternehmen:** Wissensmanagement und Datenextraktion
 
 ## Technische Details

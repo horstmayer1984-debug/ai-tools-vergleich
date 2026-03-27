@@ -15,7 +15,7 @@ In modernen Data-Architekturen ist die Qualität der Daten genauso wichtig wie d
 
 ## Warum Data Versioning?
 
-Daten ändern sich kontinuierlich – durch Updates, neue Quellen oder Korrekturen. Ohne Versionierung verlieren Sie die Nachvollziehbarkeit. Data Versioning ermöglicht:
+Daten ändern sich kontinuierlich – durch Updates, neü Qüllen oder Korrekturen. Ohne Versionierung verlieren Sie die Nachvollziehbarkeit. Data Versioning ermöglicht:
 - Reproduzierbarkeit von Experimenten
 - Rollback bei Fehlern
 - Compliance und Audit Trails
@@ -30,7 +30,7 @@ Das populärste Tool für ML-Projekte. Git-ähnliche Workflows für große Datei
 Git-like Versioning für Data Lakes. Branching, Tagging, Rollbacks für Daten.
 
 ### Delta Lake
-ACID-Transaktionen für Spark und Data Lakes. Time Travel Queries inklusive.
+ACID-Transaktionen für Spark und Data Lakes. Time Travel Qüries inklusive.
 
 ## Data Testing: Der Grundschutz
 
@@ -46,7 +46,7 @@ ACID-Transaktionen für Spark und Data Lakes. Time Travel Queries inklusive.
 Deklarative Expectations für Daten. Automatische Documentation.
 
 ###ydata-profiling (formerly pandas-profiling)
-Automatische Profiling-Reports. Schneller Ueberblick über Datenqualität.
+Automatische Profiling-Reports. Schneller Überblick über Datenqualität.
 
 ### Soda Core
 SQL-basierte Data Quality Checks. Declarative und skalierbar.
@@ -54,7 +54,7 @@ SQL-basierte Data Quality Checks. Declarative und skalierbar.
 ## Best Practices
 
 1. **Automatisierung:** Tests in CI/CD integrieren
-2. **Versionierung:** Jeder Dataset-Change = neuer Commit
+2. **Versionierung:** Jeder Dataset-Change = neür Commit
 3. **Monitoring:** Kontinuierliche Quality Checks in Produktion
 4. **Dokumentation:** Erwartungen und Rules explizit machen
 

@@ -9,7 +9,7 @@ showTableOfContents: true
 showRelatedContent: true
 ---
 
-Janitor AI ist eine Plattform für charakterbasierte KI Chats, Rollenspiel, fiktionale Interaktion und individüll gestaltete AI Personas. Es ist kein Recherche Tool, kein Coding Tool und kein Wissensarbeits Tool. Der Kernnutzen liegt in charaktergetriebener Interaktion.
+Janitor AI ist eine Plattform für charakterbasierte KI Chats, Rollenspiel, fiktionale Interaktion und individuell gestaltete AI Personas. Es ist kein Recherche Tool, kein Coding Tool und kein Wissensarbeits Tool. Der Kernnutzen liegt in charaktergetriebener Interaktion.
 
 [ANNAHME: Die offizielle Website war nicht direkt verifizierbar. Dieser Artikel stützt sich auf konsistente Sekundärqüllen.]
 

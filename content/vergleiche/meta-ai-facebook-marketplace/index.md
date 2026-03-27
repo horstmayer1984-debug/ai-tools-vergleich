@@ -33,7 +33,7 @@ Den Preis solltest du immer kontrollieren. Die KI orientiert sich am Durchschnit
 
 Gelegenheitsverkäufer profitieren am meisten. Die Hürden zum Erstellen eines Inserats sinken erheblich. Foto machen, KI Vorschlag prüfen, veröffentlichen. Der gesamte Prozess daürt unter einer Minute statt fünf bis zehn Minuten.
 
-Vielverkäufer mit speziellen Produkten brauchen weiterhin eigene Beschreibungen. Die KI Texte sind generisch und heben keine Besonderheiten hervor. Wer Vintage Möbel, Elektronik oder Sammlerstücke verkauft wird den Preis und die Beschreibung manüll anpassen müssen.
+Vielverkäufer mit speziellen Produkten brauchen weiterhin eigene Beschreibungen. Die KI Texte sind generisch und heben keine Besonderheiten hervor. Wer Vintage Möbel, Elektronik oder Sammlerstücke verkauft wird den Preis und die Beschreibung manuell anpassen müssen.
 
 Am meisten profitieren Leute die bisher aus Faulheit gar nicht auf dem Marketplace verkauft haben. Die Einstiegshürden sind jetzt so niedrig dass es sich auch für kleine Gegenstände lohnt.
 

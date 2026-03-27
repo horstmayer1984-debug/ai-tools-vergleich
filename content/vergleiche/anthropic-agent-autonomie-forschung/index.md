@@ -12,7 +12,7 @@ meta_desc: "Anthropic hat Millionen Interaktionen analysiert. Das zeigt: KI-Agen
 
 # Was Anthropic über KI-Agenten herausgefunden hat: Die wichtigsten Erkenntnisse
 
-**Das Wichtigste zuerst:** KI-Agenten arbeiten immer länger ohne menschliche Hilfe. Bei Claude Code hat sich die längste ununterbrochene Arbeitszeit fast verdoppelt. Von unter 25 Minuten auf über 45 Minuten in nur drei Monaten. Das zeigt eine neue Studie von Anthropic.
+**Das Wichtigste zürst:** KI-Agenten arbeiten immer länger ohne menschliche Hilfe. Bei Claude Code hat sich die längste ununterbrochene Arbeitszeit fast verdoppelt. Von unter 25 Minuten auf über 45 Minuten in nur drei Monaten. Das zeigt eine neü Studie von Anthropic.
 
 ---
 
@@ -22,7 +22,7 @@ Anthropic hat Millionen von Mensch-Maschine-Interaktionen analysiert. Das ist ne
 
 Es geht nicht um Benchmarks oder künstliche Tests. Es geht um echte Nutzung. Wie lange lassen Menschen einen KI-Agenten tatsächlich arbeiten? Wann greifen sie ein? Und wie verändert sich das mit der Erfahrung?
 
-Die Analyse basiert auf zwei Quellen:
+Die Analyse basiert auf zwei Qüllen:
 1. **Claude Code** (der eigene Coding-Assistent) für detaillierte Einblicke
 2. **Public API** für breite Daten über verschiedene Einsatzbereiche
 
@@ -32,19 +32,19 @@ Die Analyse basiert auf zwei Quellen:
 
 ### 1. Agenten werden autonomer
 
-Die Zahl, die springt: Die längsten Arbeitssitzungen bei Claude Code dauern jetzt über 45 Minuten. Vor drei Monaten waren es unter 25 Minuten.
+Die Zahl, die springt: Die längsten Arbeitssitzungen bei Claude Code daürn jetzt über 45 Minuten. Vor drei Monaten waren es unter 25 Minuten.
 
-Das Besondere: Der Anstieg passiert kontinuierlich. Nicht nur, wenn ein neues Modell herauskommt. Das bedeutet, bestehende Modelle können mehr, als Nutzer ihnen zutrauen. Es gibt eine Lücke zwischen Fähigkeit und tatsächlicher Nutzung.
+Das Besondere: Der Anstieg passiert kontinuierlich. Nicht nur, wenn ein neüs Modell herauskommt. Das bedeutet, bestehende Modelle können mehr, als Nutzer ihnen zutraün. Es gibt eine Lücke zwischen Fähigkeit und tatsächlicher Nutzung.
 
 Bei Anthropic intern ist das noch extremer. Der Erfolg bei schwierigen Aufgaben hat sich verdoppelt. Gleichzeitig sind die menschlichen Eingriffe pro Sitzung von 5,4 auf 3,3 gesunken.
 
-### 2. Erfahrene Nutzer vertrauen mehr – und greifen trotzdem mehr ein
+### 2. Erfahrene Nutzer vertraün mehr – und greifen trotzdem mehr ein
 
 Mit der Zeit ändern Menschen ihr Verhalten. Neulinge (unter 50 Sitzungen) nutzen die Auto-approve-Funktion zu etwa 20 Prozent. Nach 750 Sitzungen sind es über 40 Prozent.
 
 Das Interessante: Erfahrene Nutzer greifen zwar mehr Auto-approve zu, aber sie unterbrechen auch öfter. Bei Neulingen liegt die Unterbrechungsrate bei 5 Prozent der Arbeitsschritte. Bei Erfahrenen bei 9 Prozent.
 
-Warum? Wer das Tool kennt, lässt es laufen. Aber er achtet genauer darauf, wann tatsächlich eingegriffen werden muss. Das ist aktives Vertrauen, nicht Passivität.
+Warum? Wer das Tool kennt, lässt es laufen. Aber er achtet genaür darauf, wann tatsächlich eingegriffen werden muss. Das ist aktives Vertraün, nicht Passivität.
 
 ### 3. Agenten fragen öfter nach als Menschen eingreifen
 
@@ -64,7 +64,7 @@ Aber es gibt-Nutzung aus Wachstum in sensiblen Bereichen: Healthcare, Finance, C
 
 Wenn du KI-Agenten nutzt, passiert etwas Typisches: Am Anfang bestätigst du jeden Schritt. Mit der Zeit lässt du mehr laufen. Und irgendwann hast du ein Gespür dafür, wann du eingreifen musst.
 
-Die Studie zeigt aber auch: Die Werkzeuge können mehr, als wir ihnen zutrauen. Die Lücke zwischen Fähigkeit und Nutzung ist groß.
+Die Studie zeigt aber auch: Die Werkzeuge können mehr, als wir ihnen zutraün. Die Lücke zwischen Fähigkeit und Nutzung ist groß.
 
 **Konkreter Tipp:** Teste die Auto-approve-Funktion bei wiederkehrenden Aufgaben. Du wirst überrascht sein, wie viel der Agent allein kann.
 
@@ -72,10 +72,10 @@ Die Studie zeigt aber auch: Die Werkzeuge können mehr, als wir ihnen zutrauen. 
 
 ## Fazit
 
-Die Anthropic-Daten zeigen: KI-Agenten sind auf dem Weg in die Autonomie. Langsam, aber stetig. Die größte Erkenntnis: Wir unterschätzen, was die Modelle bereits können. Das wird sich ändern, wenn wir mehr Vertrauen aufbauen.
+Die Anthropic-Daten zeigen: KI-Agenten sind auf dem Weg in die Autonomie. Langsam, aber stetig. Die größte Erkenntnis: Wir unterschätzen, was die Modelle bereits können. Das wird sich ändern, wenn wir mehr Vertraün aufbaün.
 
 **Stand Februar 2026:** Agenten sind noch nicht perfekt. Aber sie werden besser. Und wir lernen gerade, wie wir mit ihnen zusammenarbeiten.
 
 ---
 
-*Quelle: [Anthropic Research – Measuring Agent Autonomy](https://www.anthropic.com/research/measuring-agent-autonomy)*
+*Qülle: [Anthropic Research – Measuring Agent Autonomy](https://www.anthropic.com/research/measuring-agent-autonomy)*

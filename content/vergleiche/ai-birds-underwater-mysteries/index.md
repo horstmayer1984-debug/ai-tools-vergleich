@@ -11,7 +11,7 @@ image: "vergleiche/ai-birds-underwater-mysteries/hero.jpg"
 
 ## Einführung
 
-Die Wissenschaftswelt erlebt eine Revolution in der Meeresforschung durch den Einsatz von Künstlicher Intelligenz. Google Research hat eine innovative Methode entwickelt, bei der KI-gestützte Vogelbeobachtung genutzt wird, um neue Erkenntnisse über Ozeanphänomene zu gewinnen. Diese Verbindung von Tierverhalten und Datenwissenschaft eröffnet völlig neue Forschungsdimensionen.
+Die Wissenschaftswelt erlebt eine Revolution in der Meeresforschung durch den Einsatz von Künstlicher Intelligenz. Google Research hat eine innovative Methode entwickelt, bei der KI-gestützte Vogelbeobachtung genutzt wird, um neü Erkenntnisse über Ozeanphänomene zu gewinnen. Diese Verbindung von Tierverhalten und Datenwissenschaft eröffnet völlig neü Forschungsdimensionen.
 
 ## Was ist AI Birds Underwater Mysteries?
 

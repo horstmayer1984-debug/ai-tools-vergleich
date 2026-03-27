@@ -27,7 +27,7 @@ Bei komplexen Formeln mit mehreren Bedingungen oder verschachtelten Lookups muss
 
 ## Google Slides: Präsentationen per Textbefehl
 
-Beschreibe das Thema und Gemini erstellt Folien mit Text, Layout und Design Vorschlägen. Das Ergebnis ist brauchbar für interne Meetings wo es auf Inhalt ankommt. Für Kundenpräsentationen oder Pitchdecks reicht die Qualität nicht. Die generierten Slides sehen nach Template aus und brauchen manülle Nacharbeit.
+Beschreibe das Thema und Gemini erstellt Folien mit Text, Layout und Design Vorschlägen. Das Ergebnis ist brauchbar für interne Meetings wo es auf Inhalt ankommt. Für Kundenpräsentationen oder Pitchdecks reicht die Qualität nicht. Die generierten Slides sehen nach Template aus und brauchen manuelle Nacharbeit.
 
 ## Google Drive: Natürliche Suche mit Ask Gemini
 

@@ -11,7 +11,7 @@ image: "vergleiche/agent-evaluation-four-pillars/hero.jpg"
 
 ## Einführung
 
-Die Bewertung von AI Agents ist komplexer als traditionelle ML-Modelle. Neben Accuracy müssen wir Planung, Tool-Nutzung und Adaptivität messen. Ein neues Framework definiert vier essenzielle Säulen für umfassende Agent-Evaluation.
+Die Bewertung von AI Agents ist komplexer als traditionelle ML-Modelle. Neben Accuracy müssen wir Planung, Tool-Nutzung und Adaptivität messen. Ein neüs Framework definiert vier essenzielle Säulen für umfassende Agent-Evaluation.
 
 ## Die vier Säulen
 

@@ -17,7 +17,7 @@ Magic Layers ändert das. Die KI zerlegt ein flaches Bild automatisch in separat
 
 Du lädst ein Bild hoch. Ein Foto, einen AI Output von Midjourney oder DALL E, irgendein JPG oder PNG. Magic Layers analysiert das Bild und trennt die Elemente automatisch in Ebenen. Der Hintergrund wird zur eigenen Schicht. Texte werden editierbar. Objekte lassen sich einzeln greifen und verschieben.
 
-Das klingt simpel, löst aber ein echtes Problem. Bisher musstest du für solche Bearbeitungen Photoshop öffnen und manüll freistellen. Magic Layers macht das in Sekunden. Kein Lasso Werkzeug, keine Masken, kein technisches Vorwissen nötig.
+Das klingt simpel, löst aber ein echtes Problem. Bisher musstest du für solche Bearbeitungen Photoshop öffnen und manuell freistellen. Magic Layers macht das in Sekunden. Kein Lasso Werkzeug, keine Masken, kein technisches Vorwissen nötig.
 
 ## Praxistest mit verschiedenen Bildtypen
 
@@ -42,10 +42,10 @@ Public Beta in den USA, UK, Kanada und Australien. Ein Deutschland Start ist nic
 | Feature | Canva Magic Layers | Photoshop | Remove.bg |
 |---|---|---|---|
 | Automatische Ebenen Trennung | Ja, vollständig automatisch | Manüll mit Select Subject | Nur Hintergrund Entfernung |
-| KI Bilder bearbeiten | Stärke des Tools | Möglich aber manüll | Nicht das Ziel |
+| KI Bilder bearbeiten | Stärke des Tools | Möglich aber manuell | Nicht das Ziel |
 | Kostenlos | Ja in der Beta | Nein, Creative Cloud Abo | Teilweise, Freemium |
 | Komplexität | Niedrig, keine Vorkenntnisse | Hoch, Photoshop Kenntnisse nötig | Sehr niedrig |
-| Ergebnisqualität | Gut bei klaren Kompositionen | Professionell bei manüller Arbeit | Gut für Hintergründe |
+| Ergebnisqualität | Gut bei klaren Kompositionen | Professionell bei manueller Arbeit | Gut für Hintergründe |
 
 Canva Magic Layers ist kein Photoshop Ersatz. Es ist ein Werkzeug für schnelle Iterationen an KI generierten oder einfachen Bildern. Wer professionelle Composings oder detaillierte Retuschen braucht kommt weiterhin nicht um Photoshop herum.
 

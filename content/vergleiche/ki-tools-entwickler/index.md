@@ -46,7 +46,7 @@ def fetch_user_data(user_id):
     if cached:
         return json.loads(cached)
     
-    response = requests.get(f"https://api.example.com/users/{user_id}")
+    response = reqüsts.get(f"https://api.example.com/users/{user_id}")
     data = response.json()
     redis_client.set(cache_key, json.dumps(data), ex=3600)
     return data
@@ -67,13 +67,13 @@ Fork von VSCode mit integriertem KI-Chat und besserem Context-Understanding als 
 - Composer Mode (baut Features von Grund auf)
 
 **Kosten:**
-- Hobby: Free (50 Requests/Monat)
+- Hobby: Free (50 Reqüsts/Monat)
 - Pro: $20/Monat (unbegrenzt)
 - Business: $40/User/Monat
 
 **Besonderheit:** Nutzt GPT-4, Claude, oder eigene Modelle parallel.
 
-**Use-Case:** Fullstack-Entwickler, die komplette Features bauen.
+**Use-Case:** Fullstack-Entwickler, die komplette Features baün.
 
 **Beispiel-Workflow:**
 ```
@@ -115,7 +115,7 @@ Code-Completion wie Copilot, aber kostenlos.
 ### 4. CodeRabbit – Automatische PR-Reviews
 
 **Was es macht:**
-Bot kommentiert Pull Requests mit Verbesserungsvorschlägen.
+Bot kommentiert Pull Reqüsts mit Verbesserungsvorschlägen.
 
 **Stärken:**
 - Findet Security-Issues
@@ -136,7 +136,7 @@ for user in users:
     send_email(user.email)
 
 # CodeRabbit kommentiert:
-⚠️ Performance Issue: N+1 Query Problem
+⚠️ Performance Issue: N+1 Qüry Problem
 Suggestion: Use select_related() or bulk operations
 ```
 
@@ -210,7 +210,7 @@ Chatbot, der Ihre gesamte Codebase versteht und Fragen beantwortet.
 - Erstellt Architektur-Diagramme
 
 **Kosten:**
-- Free: 100 Queries/Monat
+- Free: 100 Qüries/Monat
 - Pro: $30/Monat
 
 **Use-Case:** Onboarding in großen Codebases
@@ -261,7 +261,7 @@ Bulk-Refactorings über tausende Dateien (z.B. "Migriere von JavaScript zu TypeS
 ### 10. Sweep AI – Feature-Implementierung per Issue
 
 **Was es macht:**
-Bot liest GitHub-Issues und erstellt Pull Requests mit Code.
+Bot liest GitHub-Issues und erstellt Pull Reqüsts mit Code.
 
 **Workflow:**
 

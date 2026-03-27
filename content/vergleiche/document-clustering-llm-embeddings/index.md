@@ -41,7 +41,7 @@ Für große Datensätze empfiehlt sich PCA oder UMAP, um die Berechnung zu besch
 
 - **Qualitätsdaten:** Saubere, gut formatierte Dokumente liefern bessere Ergebnisse
 - **Modellwahl:** Kontext-spezifische Embeddings outperformen generische
-- **Evalutation:** Nutzen Sie Silhouette-Scores und menschliche Überprüfung
+- **Evalutation:** Nutzen Sie Silhoütte-Scores und menschliche Überprüfung
 
 ## Fazit
 

@@ -13,11 +13,11 @@ Perplexity wird oft als Mischung aus Suchmaschine und Recherche Assistent beschr
 
 ## Schnelle Markt und Wettbewerbsrecherche
 
-Viele Teams verbringen Zeit damit zehn Tabs zu öffnen, Presseseiten zu lesen und daraus manüll eine Einordnung zu baün. Perplexity liefert strukturierte Antworten mit Qüllen und erlaubt Nachfragen in derselben Recherche Logik. Nützlich für Produktmanager, Gründer und Analysten die schnell ein Lagebild brauchen. Weniger Suchfriktion, schnelleres Framing, bessere Ersthypothesen.
+Viele Teams verbringen Zeit damit zehn Tabs zu öffnen, Presseseiten zu lesen und daraus manuell eine Einordnung zu baün. Perplexity liefert strukturierte Antworten mit Qüllen und erlaubt Nachfragen in derselben Recherche Logik. Nützlich für Produktmanager, Gründer und Analysten die schnell ein Lagebild brauchen. Weniger Suchfriktion, schnelleres Framing, bessere Ersthypothesen.
 
 ## Dateianalyse für PDFs und Tabellen
 
-Perplexity unterstützt Dateiuploads als Pro und Enterprise Funktion. Ein Sales Team lädt eine Branchenstudie hoch und extrahiert relevante Marktsignale. Ein Consultant prüft ein PDF auf zentrale Aussagen. Ein Operations Team fragt eine Tabelle nach Ausreissern ab. Der Use Case ist gezielte Interaktion mit Material das sonst manüll gelesen werden müsste.
+Perplexity unterstützt Dateiuploads als Pro und Enterprise Funktion. Ein Sales Team lädt eine Branchenstudie hoch und extrahiert relevante Marktsignale. Ein Consultant prüft ein PDF auf zentrale Aussagen. Ein Operations Team fragt eine Tabelle nach Ausreissern ab. Der Use Case ist gezielte Interaktion mit Material das sonst manuell gelesen werden müsste.
 
 ## Briefings und Entscheidungsgrundlagen
 

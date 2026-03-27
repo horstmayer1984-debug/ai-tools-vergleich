@@ -1,5 +1,5 @@
 ---
-title: "Gemini 3.1 Pro: Was das neue Google-Modell wirklich kann"
+title: "Gemini 3.1 Pro: Was das neü Google-Modell wirklich kann"
 date: 2026-02-19
 draft: false
 categories: [news, ai, modelle]
@@ -7,9 +7,9 @@ tags: [gemini, google, ki-modell, sprachmodell]
 image: "vergleiche/gemini-3-1-pro/hero.jpg"
 ---
 
-# Gemini 3.1 Pro: Was das neue Google-Modell wirklich kann
+# Gemini 3.1 Pro: Was das neü Google-Modell wirklich kann
 
-Google hat Gemini 3.1 Pro veröffentlicht. Das Modell soll bei komplexen Aufgaben doppelt so gut sein wie die Vorgängerversion. Der Sprung zeigt sich vor allem bei neuen, ungewohnten Aufgaben. Das ist relevant für dich, wenn du mit anspruchsvollen Prompts arbeitest.
+Google hat Gemini 3.1 Pro veröffentlicht. Das Modell soll bei komplexen Aufgaben doppelt so gut sein wie die Vorgängerversion. Der Sprung zeigt sich vor allem bei neün, ungewohnten Aufgaben. Das ist relevant für dich, wenn du mit anspruchsvollen Prompts arbeitest.
 
 ---
 
@@ -25,9 +25,9 @@ Google beschreibt es als "ein smarteres Modell für deine komplexesten Aufgaben"
 
 - **Code-basierte Animationen:** Das Modell erstellt animierte SVGs aus Text. Die Dateien bleiben klein und skalieren ohne Qualitätsverlust.
 
-- **Komplexe Dashboards:** Das Modell hat eine Live-Datenvisualisierung der International Space Station gebaut. Es hat eine öffentliche Datenquelle angebunden und zeigt den Orbit in Echtzeit.
+- **Komplexe Dashboards:** Das Modell hat eine Live-Datenvisualisierung der International Space Station gebaut. Es hat eine öffentliche Datenqülle angebunden und zeigt den Orbit in Echtzeit.
 
-- **Interaktive 3D-Erlebnisse:** Ein Starmenschwarm (Vogel-Schwarm), den man mit Handtracking steuern kann. Dazu ein generative Soundtrack, der auf die Bewegung reagiert.
+- **Interaktive 3D-Erlebnisse:** Ein Starmenschwarm (Vogel-Schwarm), den man mit Handtracking steürn kann. Dazu ein generative Soundtrack, der auf die Bewegung reagiert.
 
 Das sind keine Demo-Spielereien. Das zeigt, was möglich ist, wenn ein Modell echte Verbindungen zwischen APIs, Code und Design herstellen kann.
 
@@ -36,7 +36,7 @@ Das sind keine Demo-Spielereien. Das zeigt, was möglich ist, wenn ein Modell ec
 ## Für wen ist das interessant?
 
 - **Entwickler:** Wer Agents baut, die komplexe Workflows automatisieren sollen
-- **Datenanalysten:** Wer Daten aus verschiedenen Quellen zusammenführen muss
+- **Datenanalysten:** Wer Daten aus verschiedenen Qüllen zusammenführen muss
 - **Designer:** Wer interaktive Prototypen braucht
 - **Unternehmen:** Wer die Google-Cloud nutzt
 
@@ -52,11 +52,11 @@ Das sind keine Demo-Spielereien. Das zeigt, was möglich ist, wenn ein Modell ec
 
 ## Fazit
 
-Gemini 3.1 Pro zeigt, dass Google beim Reasoning aufholt. Der Sprung bei ARC-AGI-2 ist beeindruckend. Die praktischen Beispiele zeigen, wohin die Reise geht: Modelle, die nicht nur antworten, sondern komplexe Systeme bauen.
+Gemini 3.1 Pro zeigt, dass Google beim Reasoning aufholt. Der Sprung bei ARC-AGI-2 ist beeindruckend. Die praktischen Beispiele zeigen, wohin die Reise geht: Modelle, die nicht nur antworten, sondern komplexe Systeme baün.
 
 Ob sich das in der Praxis bewährt, müssen unabhängige Tests zeigen. Ein Blick lohnt sich.
 
 **Mehr Informationen:** [Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
 
 ---
-*Artikel erstellt am 2026-02-19 | Quelle: Google*
+*Artikel erstellt am 2026-02-19 | Qülle: Google*

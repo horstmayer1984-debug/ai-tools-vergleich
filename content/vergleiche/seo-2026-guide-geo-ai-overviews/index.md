@@ -50,7 +50,7 @@ Der Mythos "je länger desto besser" ist 2026 widerlegt. Die richtige Länge hä
 | Vergleich und Ratgeber | 2.200 bis 5.500 | "SEO Trends 2026 komplett" |
 | Deep Dive Guide | 4.000 bis 12.000 | "E Commerce Recht Leitfaden 2026" |
 
-Die Regel: Schreibe so lang wie nötig um die Suchintention besser, aktüller und praxisnäher zu beantworten als die aktüllen Top 3 bis 5 Ergebnisse. Nicht länger.
+Die Regel: Schreibe so lang wie nötig um die Suchintention besser, aktueller und praxisnäher zu beantworten als die aktuellen Top 3 bis 5 Ergebnisse. Nicht länger.
 
 ## GEO: Wie du in KI Antworten zitiert wirst
 
@@ -66,7 +66,7 @@ Kurze klare Sätze. KI Systeme parsen kurze Sätze zuverlässiger als verschacht
 
 Schema.org Markup nutzen. Article, FAQPage und HowTo Markup helfen Suchmaschinen und KI Systemen deinen Content zu verstehen und korrekt zuzuordnen.
 
-Seiten die GEO ernst nehmen erscheinen laut aktüllen Untersuchungen drei bis fünffach häufiger in KI Antworten.
+Seiten die GEO ernst nehmen erscheinen laut aktuellen Untersuchungen drei bis fünffach häufiger in KI Antworten.
 
 ## Technisches SEO 2026: Die Pflichtliste
 
@@ -84,7 +84,7 @@ Anchor Texte mischen: 30 bis 40 Prozent exakt, 40 Prozent partiell, 20 bis 30 Pr
 
 Reine KI Texte ranken 2026 fast nie in den Top 10 wenn sie nicht stark nachbearbeitet werden. Google erkennt generische KI Muster zuverlässiger. KI Systeme wie Gemini zitieren bevorzugt Inhalte mit erkennbarer menschlicher Perspektive.
 
-Die Strategie die funktioniert: KI für Gliederung, Recherche und Rohfassung. Mensch für eigene Einsichten, aktülle Bezüge, Praxisbeispiele und Tonalität. Das Ergebnis ist besser als reiner KI Text und schneller als rein manülles Schreiben.
+Die Strategie die funktioniert: KI für Gliederung, Recherche und Rohfassung. Mensch für eigene Einsichten, aktuelle Bezüge, Praxisbeispiele und Tonalität. Das Ergebnis ist besser als reiner KI Text und schneller als rein manuelles Schreiben.
 
 ## Die grössten SEO Fehler 2026
 

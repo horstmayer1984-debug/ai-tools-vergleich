@@ -19,7 +19,7 @@ Wer bereits Fachartikel oder Newsletter schreibt kann diese Inhalte als Audiofas
 
 ## E Learning und interne Weiterbildung
 
-Viele Unternehmen besitzen Schulungsunterlagen, SOPs und Onboarding Dokumente. Das Problem: Kaum jemand liest sie vollständig. Mit ElevenLabs entstehen daraus Audio Lernmodule und gesprochene Zusammenfassungen. Besonders hilfreich für verteilte Teams, mobile Mitarbeiter oder Organisationen mit hohem Schulungsaufwand. Statt jede Schulung manüll einzusprechen baut ein Team standardisierte Audio Formate auf.
+Viele Unternehmen besitzen Schulungsunterlagen, SOPs und Onboarding Dokumente. Das Problem: Kaum jemand liest sie vollständig. Mit ElevenLabs entstehen daraus Audio Lernmodule und gesprochene Zusammenfassungen. Besonders hilfreich für verteilte Teams, mobile Mitarbeiter oder Organisationen mit hohem Schulungsaufwand. Statt jede Schulung manuell einzusprechen baut ein Team standardisierte Audio Formate auf.
 
 ## Mehrsprachiges Marketing und Lokalisierung
 

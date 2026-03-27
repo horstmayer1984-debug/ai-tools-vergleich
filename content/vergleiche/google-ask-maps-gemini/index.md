@@ -23,7 +23,7 @@ Ein weiteres Beispiel: "Restaurants in der Nähe die jetzt noch offen sind und n
 
 Maps war bisher ein reines Navigationstool. Du hast nach einem Ort gesucht, eine Route berechnet und bist losgefahren. Ask Maps macht daraus einen Assistenten der Entscheidungen vereinfacht. Statt selbst Bewertungen zu lesen, Öffnungszeiten zu prüfen und Routen zu vergleichen liefert Gemini eine fertige Empfehlung.
 
-Für lokale Unternehmen ändert sich damit die Sichtbarkeit. Wer gute Bewertungen und aktülle Öffnungszeiten pflegt wird von Ask Maps bevorzugt empfohlen. Veraltete Google Business Profile werden zum Nachteil.
+Für lokale Unternehmen ändert sich damit die Sichtbarkeit. Wer gute Bewertungen und aktuelle Öffnungszeiten pflegt wird von Ask Maps bevorzugt empfohlen. Veraltete Google Business Profile werden zum Nachteil.
 
 ## Verfügbarkeit und Deutschland Start
 
@@ -37,7 +37,7 @@ Der Rollout startete am 12. März 2026 in den USA und Indien auf Android und iOS
 | ChatGPT | Flexibel, guter Reiseplaner | Keine Echtzeit Kartendaten |
 | Perplexity | Schnelle Recherche mit Qüllen | Keine Kartenintegration |
 
-ChatGPT kann gute Reisepläne erstellen, hat aber keinen Zugriff auf aktülle Öffnungszeiten oder Echtzeit Auslastung. Perplexity liefert schnelle Rechercheergebnisse mit Qüllen aber ohne Kartenansicht. Ask Maps kombiniert beides in einer einzigen Oberfläche.
+ChatGPT kann gute Reisepläne erstellen, hat aber keinen Zugriff auf aktuelle Öffnungszeiten oder Echtzeit Auslastung. Perplexity liefert schnelle Rechercheergebnisse mit Qüllen aber ohne Kartenansicht. Ask Maps kombiniert beides in einer einzigen Oberfläche.
 
 ## Häufige Fragen
 

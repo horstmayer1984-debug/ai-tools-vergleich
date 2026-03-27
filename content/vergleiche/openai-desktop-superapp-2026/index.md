@@ -9,7 +9,7 @@ showTableOfContents: true
 showRelatedContent: true
 ---
 
-OpenAI hat zwischen dem 20. und 22. März 2026 zwei Ankündigungen gemacht. Erstens: Eine einheitliche Desktop App die ChatGPT, den Coding Assistenten Codex und den Atlas Browser in einer Oberfläche vereint. Zweitens: Das Unternehmen will bis Ende 2026 fast 8.000 Mitarbeiter beschäftigen. Das ist fast eine Verdopplung der aktüllen 4.500. Die Financial Times berichtete am 21. März exklusiv über die Personalpläne.
+OpenAI hat zwischen dem 20. und 22. März 2026 zwei Ankündigungen gemacht. Erstens: Eine einheitliche Desktop App die ChatGPT, den Coding Assistenten Codex und den Atlas Browser in einer Oberfläche vereint. Zweitens: Das Unternehmen will bis Ende 2026 fast 8.000 Mitarbeiter beschäftigen. Das ist fast eine Verdopplung der aktuellen 4.500. Die Financial Times berichtete am 21. März exklusiv über die Personalpläne.
 
 ## Was die Desktop Superapp ändern soll
 
