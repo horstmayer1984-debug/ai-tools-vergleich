@@ -1,0 +1,34 @@
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Tools Vergleich",
+    "url": "https://ai-tools-vergleich.de"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{ end }}
+
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "AI Tools Vergleich",
+  "url": "https://ai-tools-vergleich.de",
+  "description": "Vergleiche die besten KI Tools 2026: ChatGPT, Claude, Gemini und mehr.",
+  "inLanguage": "de-DE"
+}
+</script>
+{{ end }}

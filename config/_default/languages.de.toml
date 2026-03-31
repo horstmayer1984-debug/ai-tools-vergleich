@@ -1,18 +1,12 @@
 languageCode = "de-DE"
 languageName = "Deutsch"
 weight = 1
-title = "AI Tools Vergleich"
 
-[de.params]
-  displayName = "DE"
-  isoCode = "de"
-  rtl = false
-  dateFormat = "2. January 2006"
-  description = "KI-News und Analysen für den deutschsprachigen Markt."
-  copyright = "© 2024-2025 AI Tools Vergleich"
+[params]
+  displayName = "AI Tools Vergleich"
+  isoCode = "de-DE"
 
-[de.params.author]
+[params.author]
   name = "AI Tools Vergleich"
-  headline = ""
-  bio = ""
-  links = []
+
+title = "KI Tools Vergleich 2026: ChatGPT, Claude, Gemini im Test | AI Tools Vergleich"
