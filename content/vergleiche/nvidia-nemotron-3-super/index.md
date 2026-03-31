@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA Nemotron 3 Super: Was das Open Source Modell für KI Agenten taugt"
-date: 2026-03-16T14:00:00+01:00
-lastmod: 2026-03-16T14:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "NVIDIA hat Nemotron 3 Super veröffentlicht. 120B Parameter, 12B aktiv, 1 Million Token Kontext. Für wen sich das Modell eignet."
 tags: ["NVIDIA", "Nemotron", "Open Source", "KI Agenten", "LLM"]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"

@@ -1,7 +1,7 @@
 ---
 title: "Adobe AI Assistant in Photoshop: Bildbearbeitung per Textbefehl im Test"
-date: 2026-03-16T18:00:00+01:00
-lastmod: 2026-03-16T18:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Adobe hat einen KI Assistenten in Photoshop gebracht. Hintergrund entfernen, Objekte verschieben und Stile ändern per natürlicher Sprache."
 tags: ["Adobe", "Photoshop", "KI Bildbearbeitung", "Firefly", "AI Assistant"]
 image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200"

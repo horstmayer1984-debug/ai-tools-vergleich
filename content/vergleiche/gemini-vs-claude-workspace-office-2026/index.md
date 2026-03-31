@@ -1,7 +1,7 @@
 ---
 title: "Gemini vs Claude im Büro: Welches KI Tool passt zu deinem Workflow 2026"
-date: 2026-03-17T15:00:00+01:00
-lastmod: 2026-03-17T15:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Google Gemini in Workspace und Claude in Excel und PowerPoint kämpfen um den Büro Desktop. Vergleich mit konkreten Workflows und Empfehlung."
 tags: ["Gemini", "Claude", "Google Workspace", "Microsoft Office", "KI Büro"]
 image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200"

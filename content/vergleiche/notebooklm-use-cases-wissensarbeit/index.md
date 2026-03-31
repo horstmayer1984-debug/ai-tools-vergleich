@@ -1,7 +1,7 @@
 ---
 title: "NotebookLM Use Cases: Wann das Tool für Lernen und Wissensarbeit stark ist"
-date: 2026-03-22T15:00:00+01:00
-lastmod: 2026-03-22T15:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "NotebookLM sinnvoll einsetzen. Konkrete Use Cases für Studium, Projekt Onboarding, Dokumentensynthese und Audio Lernen."
 tags: ["NotebookLM", "Google", "Wissensarbeit", "Lernen", "Audio Overviews"]
 image: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200"

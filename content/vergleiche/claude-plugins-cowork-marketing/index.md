@@ -1,7 +1,7 @@
 ---
 title: "Claude Plugins für Marketing: Die besten Erweiterungen für Claude Cowork"
-date: 2026-03-16T22:00:00+01:00
-lastmod: 2026-03-16T22:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Claude Cowork hat ein Plugin System. Wir zeigen die besten Marketing Plugins mit konkreten Befehlen, Preisen und Praxisbewertung."
 tags: ["Claude", "Plugins", "Cowork", "Marketing", "Anthropic", "KI Marketing"]
 image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200"

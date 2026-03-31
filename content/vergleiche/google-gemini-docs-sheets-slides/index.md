@@ -1,7 +1,7 @@
 ---
 title: "Gemini in Google Docs, Sheets und Slides: Was die KI Funktionen taugen"
-date: 2026-03-16T12:00:00+01:00
-lastmod: 2026-03-16T12:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Google hat Gemini tief in Workspace integriert. Dokumente erstellen, Tabellen analysieren und Präsentationen generieren per Textbefehl."
 tags: ["Gemini", "Google Workspace", "Google Docs", "Google Sheets", "KI Produktivität"]
 image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200"

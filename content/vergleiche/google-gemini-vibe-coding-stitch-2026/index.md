@@ -1,7 +1,7 @@
 ---
 title: "Google Vibe Coding und Stitch: Apps baün per natürlicher Sprache in AI Studio"
-date: 2026-03-22T12:00:00+01:00
-lastmod: 2026-03-22T12:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Google AI Studio bietet jetzt Full Stack Vibe Coding und Stitch für UI Design. Was Entwickler und Designer damit konkret baün können."
 tags: ["Google", "Gemini", "Vibe Coding", "Stitch", "AI Studio", "KI Entwicklung"]
 image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200"

@@ -1,7 +1,7 @@
 ---
 title: "SEO 2026: Was sich geändert hat und welche Strategien jetzt funktionieren"
-date: 2026-03-19T11:00:00+01:00
-lastmod: 2026-03-19T11:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "SEO 2026 komplett erklärt. Von AI Overviews über GEO bis E E A T. Welche Strategien Traffic bringen und welche nicht mehr funktionieren."
 tags: ["SEO 2026", "GEO", "AI Overviews", "E-E-A-T", "Google Rankings"]
 image: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200"

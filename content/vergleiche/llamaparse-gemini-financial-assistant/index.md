@@ -1,7 +1,7 @@
 ---
 title: "Smart Financial Assistant mit LlamaParse und Gemini 3.1: Finanzdaten per KI analysieren"
-date: 2026-03-24T12:00:00+01:00
-lastmod: 2026-03-24T12:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "LlamaParse und Gemini 3.1 kombiniert ergeben einen Financial Assistant der PDFs analysiert und Handlungsempfehlungen ableitet. Anwendungsfälle und Geschäftsmodell."
 tags: ["LlamaParse", "Gemini 3.1", "Financial Assistant", "PDF Analyse", "KI Finanzen"]
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"

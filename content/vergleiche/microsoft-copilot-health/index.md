@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Copilot Health: Was der neü KI Gesundheitsassistent kann"
-date: 2026-03-16T16:00:00+01:00
-lastmod: 2026-03-16T16:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Microsoft hat Copilot Health gestartet. Wearable Daten, Laborwerte und Krankenakten mit KI Analyse zusammengeführt. Was das bringt und wo die Grenzen liegen."
 tags: ["Microsoft", "Copilot Health", "Gesundheit", "KI Medizin", "Wearables"]
 image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200"

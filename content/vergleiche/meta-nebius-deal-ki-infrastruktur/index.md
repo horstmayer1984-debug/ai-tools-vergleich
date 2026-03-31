@@ -1,7 +1,7 @@
 ---
 title: "Meta Nebius Deal: 27 Milliarden Dollar und was das für KI Infrastruktur in Deutschland heisst"
-date: 2026-03-17T11:00:00+01:00
-lastmod: 2026-03-17T11:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Der Meta Nebius Deal über bis zu 27 Milliarden Dollar verändert den KI Infrastrukturmarkt. Welche Folgen das für Cloud, Rechenzentren und Energie in Deutschland hat."
 tags: ["Meta", "Nebius", "KI Infrastruktur", "Rechenzentren", "Cloud"]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"

@@ -1,7 +1,7 @@
 ---
 title: "Perplexity Use Cases: Wann das Tool Recherche wirklich schneller macht"
-date: 2026-03-22T14:00:00+01:00
-lastmod: 2026-03-22T14:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Perplexity im Alltag. Konkrete Use Cases für Marktrecherche, Dateianalyse, Briefings und interne Wissenssuche."
 tags: ["Perplexity", "Recherche", "KI Suche", "Wissensarbeit", "Use Cases"]
 image: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200"

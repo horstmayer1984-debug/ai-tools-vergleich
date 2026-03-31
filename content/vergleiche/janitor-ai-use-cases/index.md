@@ -1,7 +1,7 @@
 ---
 title: "Janitor AI Use Cases: Für wen sich das Tool in der Praxis lohnt"
-date: 2026-03-22T17:00:00+01:00
-lastmod: 2026-03-22T17:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Janitor AI sinnvoll nutzen. Konkrete Use Cases für Rollenspiel, Figurenentwicklung und interaktive Story Formate."
 tags: ["Janitor AI", "Rollenspiel", "KI Chat", "Storytelling", "Character AI"]
 image: "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=1200"

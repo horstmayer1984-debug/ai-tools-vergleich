@@ -1,7 +1,7 @@
 ---
 title: "Visa CLI: KI Agenten können jetzt per Kreditkarte bezahlen"
-date: 2026-03-19T10:00:00+01:00
-lastmod: 2026-03-19T10:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Visa Crypto Labs hat Visa CLI veröffentlicht. Ein Terminal Tool mit dem KI Agenten echte Visa Zahlungen ausführen. Funktionsweise, Sicherheit und Vergleich mit Stripe MPP."
 tags: ["Visa CLI", "KI Agenten", "Agentic Commerce", "Zahlungen", "Visa Crypto Labs"]
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"

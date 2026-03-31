@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs Use Cases: Für wen sich das KI Audio Tool wirklich lohnt"
-date: 2026-03-22T13:00:00+01:00
-lastmod: 2026-03-22T13:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "ElevenLabs sinnvoll nutzen. Konkrete Use Cases für Content Repurposing, E Learning, Lokalisierung und Voice Interfaces."
 tags: ["ElevenLabs", "KI Audio", "Text to Speech", "Voice Cloning", "Use Cases"]
 image: "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1200"

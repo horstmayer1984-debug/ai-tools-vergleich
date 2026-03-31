@@ -1,7 +1,7 @@
 ---
 title: "Claude Code Review: Wie gut prüft die KI deinen Code wirklich"
-date: 2026-03-16T13:00:00+01:00
-lastmod: 2026-03-16T13:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Anthropic hat Claude Code Review lanciert. Mehrere KI Agenten prüfen Pull Reqüsts gleichzeitig auf Fehler und Sicherheitslücken."
 tags: ["Claude Code", "Code Review", "Anthropic", "Entwickler Tools", "KI Coding"]
 image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"

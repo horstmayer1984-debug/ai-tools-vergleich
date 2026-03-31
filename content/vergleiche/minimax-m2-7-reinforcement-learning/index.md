@@ -1,7 +1,7 @@
 ---
 title: "MiniMax M2.7: Kann KI wirklich 30 bis 50 Prozent der RL Forschung übernehmen"
-date: 2026-03-24T11:00:00+01:00
-lastmod: 2026-03-24T11:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "MiniMax M2.7 soll 30 bis 50 Prozent der Reinforcement Learning Forschung automatisieren. Was das Modell kann, wo die Grenzen liegen und was Entwickler wissen müssen."
 tags: ["MiniMax", "M2.7", "Reinforcement Learning", "KI Forschung", "OpenClaw"]
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200"

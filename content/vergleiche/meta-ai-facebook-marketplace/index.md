@@ -1,7 +1,7 @@
 ---
 title: "Meta AI im Facebook Marketplace: Automatische Inserate im Praxistest"
-date: 2026-03-16T17:00:00+01:00
-lastmod: 2026-03-16T17:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Meta AI erstellt jetzt automatisch Marketplace Inserate aus Fotos, schlägt Preise vor und beantwortet Käufer Nachrichten. Was funktioniert und was nicht."
 tags: ["Meta AI", "Facebook Marketplace", "KI Verkaufen", "Automatisierung"]
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"

@@ -1,7 +1,7 @@
 ---
 title: "Cursor Use Cases: Wie Entwickler mit dem KI Editor produktiver arbeiten"
-date: 2026-03-22T16:00:00+01:00
-lastmod: 2026-03-22T16:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Cursor im Entwickler Alltag. Konkrete Use Cases für Refactoring, Debugging, Codebase Verständnis und UI Editing."
 tags: ["Cursor", "KI Editor", "Coding", "Refactoring", "Entwickler Tools"]
 image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"

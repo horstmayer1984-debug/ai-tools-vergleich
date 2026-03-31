@@ -1,7 +1,7 @@
 ---
 title: "Canva Magic Layers: KI Bilder endlich richtig bearbeiten"
-date: 2026-03-16T19:00:00+01:00
-lastmod: 2026-03-16T19:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Canva Magic Layers verwandelt flache Bilder in editierbare Ebenen. Was das Feature kann und warum es KI generierte Designs verändert."
 tags: ["Canva", "Magic Layers", "KI Design", "Bildbearbeitung", "Grafikdesign"]
 image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200"

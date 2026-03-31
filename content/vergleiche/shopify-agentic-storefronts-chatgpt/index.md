@@ -1,7 +1,7 @@
 ---
 title: "Shopify Agentic Storefronts: Produkte direkt in ChatGPT verkaufen"
-date: 2026-03-24T10:00:00+01:00
-lastmod: 2026-03-24T10:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Shopify hat Agentic Storefronts gestartet. Händler verkaufen ab sofort direkt in ChatGPT. Wie die Funktion arbeitet, was sie kostet und wie du sie einrichtest."
 tags: ["Shopify", "Agentic Storefronts", "ChatGPT", "E-Commerce", "Agentic Commerce"]
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"

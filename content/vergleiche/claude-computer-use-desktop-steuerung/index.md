@@ -1,7 +1,7 @@
 ---
 title: "Claude Computer Use: KI steürt deinen Mac Desktop"
-date: 2026-03-24T14:00:00+01:00
-lastmod: 2026-03-24T14:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Claude kann jetzt den Mac Desktop steürn. Apps öffnen, Browser navigieren, Tabellen ausfüllen. Wie Computer Use funktioniert und was es kostet."
 tags: ["Claude", "Computer Use", "Desktop Steürung", "Cowork", "Dispatch"]
 image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200"

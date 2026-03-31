@@ -1,7 +1,7 @@
 ---
 title: "Google Ask Maps: Gemini macht Google Maps zum KI Reiseberater"
-date: 2026-03-16T15:00:00+01:00
-lastmod: 2026-03-16T15:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Google hat Ask Maps gestartet. Ein Gemini Chatbot in Google Maps der komplexe Fragen zu Orten, Routen und Aktivitäten beantwortet."
 tags: ["Google Maps", "Gemini", "Ask Maps", "Reiseplanung", "KI Navigation"]
 image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ä5f1?w=1200"

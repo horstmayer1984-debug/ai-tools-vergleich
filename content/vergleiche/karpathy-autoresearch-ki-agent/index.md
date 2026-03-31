@@ -1,7 +1,7 @@
 ---
 title: "Karpathys Autoresearch: Der KI Agent der über Nacht allein forscht"
-date: 2026-03-16T21:00:00+01:00
-lastmod: 2026-03-16T21:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Andrej Karpathy hat Autoresearch veröffentlicht. Ein Open Source Tool mit dem ein KI Agent selbstständig Code ändert, Experimente durchführt und Modelle verbessert."
 tags: ["Karpathy", "Autoresearch", "KI Agent", "Open Source", "ML Forschung"]
 image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200"

@@ -1,7 +1,7 @@
 ---
 title: "Zorq AI im Test: KI Video und Bild Generator mit mehreren Modellen in einem Tool"
-date: 2026-03-22T18:00:00+01:00
-lastmod: 2026-03-22T18:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Zorq AI bündelt Kling, Sora und Veo in einem Workspace. Test der Features, Preise und für wen sich das Tool lohnt."
 tags: ["Zorq AI", "KI Video Generator", "Kling", "Sora", "Veo", "KI Bilder"]
 image: "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=1200"

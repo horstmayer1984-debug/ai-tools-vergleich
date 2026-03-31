@@ -1,7 +1,7 @@
 ---
 title: "Claude Updates 2026: 22 neü Features in drei Monaten"
-date: 2026-03-24T13:00:00+01:00
-lastmod: 2026-03-24T13:00:00+01:00
+date: 2026-03-31T10:00:00+01:00
+lastmod: 2026-03-31T10:00:00+01:00
 description: "Anthropic hat zwischen Januar und März 2026 22 Updates für Claude veröffentlicht. Kompletter Überblick über alle Features von Cowork bis Auto Mode."
 tags: ["Claude", "Anthropic", "Updates 2026", "Cowork", "Opus 4.6", "Claude Code"]
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
