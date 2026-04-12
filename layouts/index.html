@@ -1,10 +1,23 @@
 {{ define "main" }}
-<div style="background:#f0f4ff;border:1px solid #bfdbfe;border-radius:14px;padding:28px;margin:32px 0;text-align:center;">
-  <div style="font-size:13px;font-weight:600;color:#2563eb;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px;">Persönlichkeitstest</div>
-  <h2 style="font-size:26px;font-weight:700;margin-bottom:12px;color:#000;">Welcher KI-Typ bist du?</h2>
-  <p style="font-size:15px;color:#374151;margin-bottom:20px;">8 Fragen. 2 Minuten. Finde heraus, welche Tools wirklich zu deinem Workflow passen.</p>
-  <a href="/quiz/" style="background:#2563eb;color:#fff;border-radius:14px;padding:13px 28px;font-weight:600;font-size:16px;text-decoration:none;display:inline-block;">Quiz starten →</a>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:32px 0;">
+  <div style="background:#f0f4ff;border:1px solid #bfdbfe;border-radius:14px;padding:24px;text-align:center;display:flex;flex-direction:column;justify-content:space-between;">
+    <div>
+      <div style="font-size:12px;font-weight:600;color:#2563eb;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px;">Persönlichkeitstest</div>
+      <h2 style="font-family:'Source Serif 4',Georgia,serif;font-size:20px;font-weight:700;margin-bottom:10px;color:#000;">Welcher KI-Typ bist du?</h2>
+      <p style="font-size:14px;color:#374151;margin-bottom:16px;">8 Fragen. 2 Minuten. Finde deine Tools.</p>
+    </div>
+    <a href="/quiz/" style="background:#2563eb;color:#fff;border-radius:14px;padding:11px 20px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block;">Quiz starten →</a>
+  </div>
+  <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:14px;padding:24px;text-align:center;display:flex;flex-direction:column;justify-content:space-between;">
+    <div>
+      <div style="font-size:12px;font-weight:600;color:#16a34a;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px;">Abo-Rechner</div>
+      <h2 style="font-family:'Source Serif 4',Georgia,serif;font-size:20px;font-weight:700;margin-bottom:10px;color:#000;">Lohnt sich das KI-Abo?</h2>
+      <p style="font-size:14px;color:#374151;margin-bottom:16px;">ChatGPT Plus, Claude Pro &amp; Co. – dein Break-even.</p>
+    </div>
+    <a href="/pricing-calculator/" style="background:#16a34a;color:#fff;border-radius:14px;padding:11px 20px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block;">Rechner öffnen →</a>
+  </div>
 </div>
+<style>@media(max-width:600px){.widget-grid{grid-template-columns:1fr!important}}</style>
 {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" ) | first 1 -}}
 <section class="block md:flex relative group p-6 lg:p-10 space-y-6 md:space-x-6 my-14 bg-zinc-100 rounded-3xl hover:bg-blue-100">
   <figure class="basis-1/2 w-full aspect-video overflow-hidden rounded-2xl border">
@@ -16,7 +29,7 @@
   </figure>
   <div class="basis-1/2 self-center">
     <h2 class="text-2xl md:text-3xl lg:text-5xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold">{{ .Date.Format "Jan 02, 2006" }}</span></time>
+    <time datetime="{{ .Date.Format \"2006-01-02T15:04:05-07:00\" | safeHTML }}"><span class="font-bold">{{ .Date.Format \"Jan 02, 2006\" }}</span></time>
   </div>
 </section>
 {{ end -}}
