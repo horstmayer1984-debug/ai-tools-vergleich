@@ -1,5 +1,20 @@
 {{ define "main" }}
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:32px 0;">
+  <div style="background:#f0f4ff;border:1px solid #bfdbfe;border-radius:14px;padding:24px;text-align:center;display:flex;flex-direction:column;justify-content:space-between;">
+    <div><div style="font-size:12px;font-weight:600;color:#2563eb;margin-bottom:6px;">Persoenlichkeitstest</div>
+    <h2 style="font-family:Georgia,serif;font-size:20px;font-weight:700;margin-bottom:10px;">Welcher KI-Typ bist du?</h2>
+    <p style="font-size:14px;color:#374151;margin-bottom:16px;">8 Fragen. 2 Minuten.</p></div>
+    <a href="/quiz/" style="background:#2563eb;color:#fff;border-radius:14px;padding:11px 20px;font-weight:600;font-size:14px;text-decoration:none;">Quiz starten</a>
+  </div>
+  <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:14px;padding:24px;text-align:center;display:flex;flex-direction:column;justify-content:space-between;">
+    <div><div style="font-size:12px;font-weight:600;color:#16a34a;margin-bottom:6px;">Abo-Rechner</div>
+    <h2 style="font-family:Georgia,serif;font-size:20px;font-weight:700;margin-bottom:10px;">Lohnt sich das KI-Abo?</h2>
+    <p style="font-size:14px;color:#374151;margin-bottom:16px;">Break-even fuer ChatGPT, Claude, Gemini.</p></div>
+    <a href="/pricing-calculator/" style="background:#16a34a;color:#fff;border-radius:14px;padding:11px 20px;font-weight:600;font-size:14px;text-decoration:none;">Rechner oeffnen</a>
+  </div>
+</div>
+
 <!-- Feature post by tag = "feature" -->
 
 {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" ) | first 1 -}}
