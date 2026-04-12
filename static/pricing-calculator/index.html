@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KI-Abo Rechner: Lohnt sich Claude Pro, ChatGPT Plus & Co.? | AI Tools Vergleich</title>
-<meta name="description" content="Berechne in 2 Minuten ob sich ChatGPT Plus, Claude Pro, Grok Premium oder Gemini Advanced für dich lohnt – mit Break-even-Analyse und persönlicher Empfehlung.">
+<title>KI-Abo Rechner | AI Tools Vergleich</title>
+<meta name="description" content="Berechne ob sich ChatGPT Plus, Claude Pro, Grok oder Gemini Advanced lohnt – mit Break-even-Analyse.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Outfit',system-ui,-apple-system,sans-serif;background:#fff;color:#000;font-size:16px;line-height:1.6;padding:24px 16px 48px}
+body{font-family:'Outfit',system-ui,sans-serif;background:#fff;color:#000;font-size:16px;line-height:1.6;padding:24px 16px 48px}
 .container{max-width:800px;margin:0 auto}
 h1{font-family:'Source Serif 4',Georgia,serif;font-size:clamp(24px,5vw,36px);font-weight:700;line-height:1.2;margin-bottom:8px}
 .subtitle{font-size:16px;color:#374151;margin-bottom:32px}
@@ -17,13 +17,13 @@ h1{font-family:'Source Serif 4',Georgia,serif;font-size:clamp(24px,5vw,36px);fon
 @media(max-width:560px){.inputs-grid{grid-template-columns:1fr}}
 .input-card{background:#f8f9fa;border:1px solid #e5e7eb;border-radius:14px;padding:20px}
 .input-label{font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:#6b7280;margin-bottom:4px}
-.input-value{font-size:28px;font-weight:700;color:#2563eb;margin-bottom:12px;min-height:36px}
-input[type="range"]{width:100%;height:6px;border-radius:3px;background:#e5e7eb;outline:none;-webkit-appearance:none;cursor:pointer}
-input[type="range"]::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;border-radius:50%;background:#2563eb;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.2)}
-input[type="range"]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;background:#2563eb;border:none;cursor:pointer}
+.input-value{font-size:28px;font-weight:700;color:#2563eb;margin-bottom:12px}
+input[type=range]{width:100%;height:6px;border-radius:3px;background:#e5e7eb;outline:none;-webkit-appearance:none;cursor:pointer}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;border-radius:50%;background:#2563eb;cursor:pointer}
+input[type=range]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;background:#2563eb;border:none;cursor:pointer}
 .input-hint{font-size:12px;color:#9ca3af;margin-top:6px}
 .results-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-bottom:32px}
-.plan-card{border:2px solid #e5e7eb;border-radius:14px;padding:20px 16px;text-align:center;position:relative;transition:border-color .2s ease,box-shadow .2s ease;background:#fff}
+.plan-card{border:2px solid #e5e7eb;border-radius:14px;padding:20px 16px;text-align:center;position:relative;background:#fff;transition:border-color .2s}
 .plan-card.recommended{border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.12)}
 .plan-card.not-worth{opacity:.5}
 .recommended-badge{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:#2563eb;color:#fff;font-size:11px;font-weight:700;padding:3px 10px;border-radius:99px;white-space:nowrap}
@@ -34,7 +34,7 @@ input[type="range"]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;b
 .plan-score{font-size:26px;font-weight:700;margin-bottom:8px}
 .plan-score.great{color:#16a34a}.plan-score.ok{color:#ea580c}.plan-score.bad{color:#dc2626}
 .plan-bar-wrap{background:#f3f4f6;border-radius:99px;height:6px;margin-bottom:10px;overflow:hidden}
-.plan-bar{height:100%;border-radius:99px;background:#2563eb;transition:width .4s ease}
+.plan-bar{height:100%;border-radius:99px;background:#2563eb;transition:width .4s}
 .plan-verdict{font-size:12px;font-weight:600;padding:4px 10px;border-radius:99px;display:inline-block}
 .verdict-yes{background:#dcfce7;color:#16a34a}.verdict-maybe{background:#fef3c7;color:#d97706}.verdict-no{background:#fee2e2;color:#dc2626}
 .details-section{background:#f8f9fa;border:1px solid #e5e7eb;border-radius:14px;padding:24px;margin-bottom:32px}
@@ -42,16 +42,15 @@ input[type="range"]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;b
 .breakeven-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
 .breakeven-item{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px}
 .breakeven-name{font-size:13px;font-weight:600;margin-bottom:4px}
-.breakeven-value{font-size:20px;font-weight:700;color:#2563eb;margin-bottom:2px}
+.breakeven-value{font-size:20px;font-weight:700;margin-bottom:2px}
 .breakeven-desc{font-size:12px;color:#6b7280}
-.recommendation-box{border:2px solid #2563eb;border-radius:14px;padding:24px;margin-bottom:32px;background:#eff6ff}
-.recommendation-box h2{font-family:'Source Serif 4',Georgia,serif;font-size:20px;font-weight:700;margin-bottom:8px}
-.recommendation-box p{font-size:15px;color:#1e3a8a;line-height:1.6}
-.recommendation-box strong{color:#2563eb}
+.rec-box{border:2px solid #2563eb;border-radius:14px;padding:24px;margin-bottom:32px;background:#eff6ff}
+.rec-box h2{font-family:'Source Serif 4',Georgia,serif;font-size:20px;font-weight:700;margin-bottom:8px}
+.rec-box p{font-size:15px;color:#1e3a8a;line-height:1.6}
 .cta-row{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}
-.btn-primary{background:#2563eb;color:#fff;border:none;border-radius:14px;padding:12px 24px;font-family:'Outfit',system-ui,sans-serif;font-size:15px;font-weight:600;cursor:pointer;text-decoration:none;display:inline-block;transition:background .2s ease}
+.btn-primary{background:#2563eb;color:#fff;border:none;border-radius:14px;padding:12px 24px;font-family:'Outfit',sans-serif;font-size:15px;font-weight:600;cursor:pointer;text-decoration:none;display:inline-block;transition:background .2s}
 .btn-primary:hover{background:#1d4ed8}
-.btn-secondary{background:transparent;color:#2563eb;border:2px solid #2563eb;border-radius:14px;padding:10px 20px;font-family:'Outfit',system-ui,sans-serif;font-size:15px;font-weight:600;text-decoration:none;display:inline-block;transition:background .2s ease,color .2s ease}
+.btn-secondary{background:transparent;color:#2563eb;border:2px solid #2563eb;border-radius:14px;padding:10px 20px;font-family:'Outfit',sans-serif;font-size:15px;font-weight:600;text-decoration:none;display:inline-block;transition:.2s}
 .btn-secondary:hover{background:#2563eb;color:#fff}
 .section-title{font-family:'Source Serif 4',Georgia,serif;font-size:22px;font-weight:700;margin-bottom:16px}
 </style>
@@ -61,35 +60,69 @@ input[type="range"]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;b
 <h1>Lohnt sich das KI-Abo?</h1>
 <p class="subtitle">Gib deine typische Nutzung ein – der Rechner zeigt dir, welches Abo sich wirklich rechnet.</p>
 <div class="inputs-grid">
-<div class="input-card"><div class="input-label">Stunden KI pro Tag</div><div class="input-value" id="val-hours">2 Std.</div><input type="range" id="range-hours" min="0.5" max="10" step="0.5" value="2"><div class="input-hint">Wie lange nutzt du KI-Tools täglich?</div></div>
-<div class="input-card"><div class="input-label">Komplexe Aufgaben / Monat</div><div class="input-value" id="val-tasks">30</div><input type="range" id="range-tasks" min="5" max="300" step="5" value="30"><div class="input-hint">Analysen, langer Code, tiefe Recherche</div></div>
+<div class="input-card"><div class="input-label">Stunden KI pro Tag</div><div class="input-value" id="val-hours">2 Std.</div><input type="range" id="range-hours" min="0.5" max="10" step="0.5" value="2"><div class="input-hint">Wie lange nutzt du KI täglich?</div></div>
+<div class="input-card"><div class="input-label">Komplexe Aufgaben / Monat</div><div class="input-value" id="val-tasks">30</div><input type="range" id="range-tasks" min="5" max="300" step="5" value="30"><div class="input-hint">Analysen, langer Code, Recherche</div></div>
 <div class="input-card"><div class="input-label">Coding-Stunden / Woche</div><div class="input-value" id="val-coding">0 Std.</div><input type="range" id="range-coding" min="0" max="40" step="1" value="0"><div class="input-hint">0 = kein Coding</div></div>
-<div class="input-card"><div class="input-label">Bild- / Video-Generierung</div><div class="input-value" id="val-images">Nie</div><input type="range" id="range-images" min="0" max="3" step="1" value="0"><div class="input-hint">0 = nie, 3 = täglich</div></div>
+<div class="input-card"><div class="input-label">Bild-/Video-Generierung</div><div class="input-value" id="val-images">Nie</div><input type="range" id="range-images" min="0" max="3" step="1" value="0"><div class="input-hint">0 = nie, 3 = täglich</div></div>
 </div>
 <div class="section-title">Dein persönlicher Vergleich</div>
 <div class="results-grid" id="results-grid"></div>
 <div class="details-section"><h2>Break-even Analyse</h2><div class="breakeven-grid" id="breakeven-grid"></div></div>
-<div class="recommendation-box" id="recommendation-box"></div>
+<div class="rec-box" id="rec-box"></div>
 <div class="cta-row">
-<a href="https://ai-tools-vergleich.de/vergleiche/neue-ki-modelle-2026-gpt-claude-gemini/" class="btn-primary">Detaillierter Modell-Vergleich →</a>
+<a href="https://ai-tools-vergleich.de/vergleiche/neue-ki-modelle-2026-gpt-claude-gemini/" class="btn-primary">Detaillierter Modell-Vergleich</a>
 <a href="https://ai-tools-vergleich.de/" class="btn-secondary">Alle KI-Artikel</a>
 </div>
 </div>
 <script>
-const PLANS=[{id:'chatgpt',name:'ChatGPT Plus',logo:'🤖',price:20,strengths:{general:1.0,coding:0.85,images:1.0,tasks:0.9},breakeven:{tasks:15,hours:1.0},url:'https://ai-tools-vergleich.de/vergleiche/neue-ki-modelle-2026-gpt-claude-gemini/',description:'GPT-4o + DALL·E + Browsing. Bester Allrounder für Content und Analyse.'},{id:'claude',name:'Claude Pro',logo:'✦',price:20,strengths:{general:1.0,coding:1.0,images:0.0,tasks:1.0},breakeven:{tasks:12,hours:0.8},url:'https://ai-tools-vergleich.de/vergleiche/claude-updates-2026-ueberblick/',description:'Bester Schreibassistent und Coding-Partner. 200k Context, Projects-Feature.'},{id:'gemini',name:'Gemini Advanced',logo:'✦',price:22,strengths:{general:0.9,coding:0.8,images:0.7,tasks:0.85},breakeven:{tasks:20,hours:1.5},url:'https://ai-tools-vergleich.de/vergleiche/gemini-vs-claude-workspace-office-2026/',description:'Beste Google Workspace-Integration. Ideal bei G-Suite-Nutzern.'},{id:'grok',name:'Grok Premium',logo:'✕',price:16,strengths:{general:0.75,coding:0.7,images:0.6,tasks:0.7},breakeven:{tasks:25,hours:2.0},url:'https://ai-tools-vergleich.de/',description:'Günstigstes Abo, gute Real-time-Suche via X. Ideal bei niedrigem Budget.'},{id:'claude-max',name:'Claude Max',logo:'✦✦',price:100,strengths:{general:1.0,coding:1.0,images:0.0,tasks:1.0},breakeven:{tasks:80,hours:6.0},url:'https://ai-tools-vergleich.de/vergleiche/claude-updates-2026-ueberblick/',description:'5× mehr Nutzung als Pro. Nur bei intensivem täglichem Einsatz sinnvoll.'}];
-const imageLabels=['Nie','Gelegentlich','Regelmäßig','Täglich'];
-function getValues(){return{hours:parseFloat(document.getElementById('range-hours').value),tasks:parseInt(document.getElementById('range-tasks').value),coding:parseInt(document.getElementById('range-coding').value),images:parseInt(document.getElementById('range-images').value)}}
-function computeScore(plan,v){const h=Math.min(v.hours/10,1)*35*plan.strengths.general;const t=Math.min(v.tasks/100,1)*30*plan.strengths.tasks;const c=Math.min(v.coding/40,1)*20*plan.strengths.coding;const i=(v.images/3)*15*plan.strengths.images;return Math.round(h+t+c+i)}
-function getVerdict(score,price){const b=price===100?70:price>=20?45:35;if(score>=b)return{label:'Lohnt sich',cls:'verdict-yes'};if(score>=b*0.65)return{label:'Bedingt',cls:'verdict-maybe'};return{label:'Zu teuer',cls:'verdict-no'}}
-function render(){const v=getValues();const scores=PLANS.map(p=>({plan:p,score:computeScore(p,v)}));const maxScore=Math.max(...scores.map(s=>s.score));const best=scores.reduce((a,b)=>a.score>b.score?a:b);
-document.getElementById('results-grid').innerHTML=scores.map(({plan,score})=>{const verdict=getVerdict(score,plan.price);const isRec=plan.id===best.plan.id;const sc=score>=60?'great':score>=35?'ok':'bad';return`<div class="plan-card ${isRec?'recommended':''} ${verdict.cls==='verdict-no'?'not-worth':''}"> ${isRec?'<div class="recommended-badge">Empfohlen</div>':''}<div class="plan-logo">${plan.logo}</div><div class="plan-name">${plan.name}</div><div class="plan-price">${plan.price} €/Monat</div><div class="plan-score-label">Nutzen-Score</div><div class="plan-score ${sc}">${score}</div><div class="plan-bar-wrap"><div class="plan-bar" style="width:${score}%"></div></div><span class="plan-verdict ${verdict.cls}">${verdict.label}</span></div>`}).join('');
-document.getElementById('breakeven-grid').innerHTML=PLANS.map(p=>{const ratio=Math.round((v.tasks/p.breakeven.tasks)*100);const col=ratio>=100?'#16a34a':ratio>=60?'#ea580c':'#dc2626';return`<div class="breakeven-item"><div class="breakeven-name">${p.logo} ${p.name}</div><div class="breakeven-value" style="color:${col}">${ratio}%</div><div class="breakeven-desc">Du erreichst ${ratio}% des Break-even<br>(${p.breakeven.tasks} Aufgaben/Monat nötig)</div></div>`}).join('');
-const b=best.plan;let r='';if(v.coding>=15)r='Du codierst viel – Claude Pro oder Max ist erste Wahl. ';else if(v.images>=2)r='Du generierst regelmäßig Bilder – ChatGPT Plus mit DALL·E ist ideal. ';else if(v.tasks>=80)r='Mit so vielen komplexen Aufgaben ist ein starkes Modell Pflicht. ';else if(v.hours<=1)r='Bei unter 1 Stunde täglich lohnt oft das kostenlose Tier. ';else r=`Bei deiner Nutzung bekommst du den besten Gegenwert mit ${b.name}. `;
-document.getElementById('recommendation-box').innerHTML=`<h2>Unsere Empfehlung: ${b.logo} ${b.name}</h2><p>${r}<strong>${b.description}</strong></p><div class="cta-row"><a href="${b.url}" class="btn-primary">Zum ${b.name} Test →</a></div>`}
-document.getElementById('range-hours').addEventListener('input',e=>{document.getElementById('val-hours').textContent=e.target.value+' Std.';render()});
-document.getElementById('range-tasks').addEventListener('input',e=>{document.getElementById('val-tasks').textContent=e.target.value;render()});
-document.getElementById('range-coding').addEventListener('input',e=>{document.getElementById('val-coding').textContent=e.target.value+' Std.';render()});
-document.getElementById('range-images').addEventListener('input',e=>{document.getElementById('val-images').textContent=imageLabels[e.target.value];render()});
+const PLANS=[
+{id:'chatgpt',name:'ChatGPT Plus',logo:'🤖',price:20,s:{g:1.0,c:0.85,i:1.0,t:0.9},be:15,url:'https://ai-tools-vergleich.de/vergleiche/neue-ki-modelle-2026-gpt-claude-gemini/',desc:'GPT-4o + DALL\u00b7E + Browsing. Bester Allrounder f\u00fcr Content und Analyse.'},
+{id:'claude',name:'Claude Pro',logo:'\u2736',price:20,s:{g:1.0,c:1.0,i:0.0,t:1.0},be:12,url:'https://ai-tools-vergleich.de/vergleiche/claude-updates-2026-ueberblick/',desc:'Bester Schreibassistent und Coding-Partner. 200k Context, Projects-Feature.'},
+{id:'gemini',name:'Gemini Advanced',logo:'\u2736',price:22,s:{g:0.9,c:0.8,i:0.7,t:0.85},be:20,url:'https://ai-tools-vergleich.de/vergleiche/gemini-vs-claude-workspace-office-2026/',desc:'Beste Google Workspace-Integration. Ideal bei G-Suite-Nutzern.'},
+{id:'grok',name:'Grok Premium',logo:'\u2715',price:16,s:{g:0.75,c:0.7,i:0.6,t:0.7},be:25,url:'https://ai-tools-vergleich.de/',desc:'G\u00fcnstigstes Abo, gute Real-time-Suche via X. Ideal bei niedrigem Budget.'},
+{id:'claude-max',name:'Claude Max',logo:'\u2736\u2736',price:100,s:{g:1.0,c:1.0,i:0.0,t:1.0},be:80,url:'https://ai-tools-vergleich.de/vergleiche/claude-updates-2026-ueberblick/',desc:'5\u00d7 mehr Nutzung als Pro. Nur bei intensivem t\u00e4glichem Einsatz sinnvoll.'}
+];
+const IL=['Nie','Gelegentlich','Regelm\u00e4\u00dfig','T\u00e4glich'];
+function vals(){return{h:parseFloat(document.getElementById('range-hours').value),t:parseInt(document.getElementById('range-tasks').value),c:parseInt(document.getElementById('range-coding').value),i:parseInt(document.getElementById('range-images').value)}}
+function score(p,v){return Math.round(Math.min(v.h/10,1)*35*p.s.g+Math.min(v.t/100,1)*30*p.s.t+Math.min(v.c/40,1)*20*p.s.c+(v.i/3)*15*p.s.i)}
+function verdict(sc,price){const b=price===100?70:price>=20?45:35;if(sc>=b)return{l:'Lohnt sich',c:'verdict-yes'};if(sc>=b*0.65)return{l:'Bedingt',c:'verdict-maybe'};return{l:'Zu teuer',c:'verdict-no'}}
+function render(){
+const v=vals();
+const scores=PLANS.map(p=>({p,sc:score(p,v)}));
+const best=scores.reduce((a,b)=>a.sc>b.sc?a:b);
+document.getElementById('results-grid').innerHTML=scores.map(({p,sc})=>{
+const vd=verdict(sc,p.price);const isR=p.id===best.p.id;const cl=sc>=60?'great':sc>=35?'ok':'bad';
+return '<div class="plan-card'+(isR?' recommended':'')+(vd.c==='verdict-no'?' not-worth':'')+'">'+
+(isR?'<div class="recommended-badge">Empfohlen</div>':'')+
+'<div class="plan-logo">'+p.logo+'</div><div class="plan-name">'+p.name+'</div><div class="plan-price">'+p.price+' \u20ac/Monat</div>'+
+'<div class="plan-score-label">Nutzen-Score</div><div class="plan-score '+cl+'">'+sc+'</div>'+
+'<div class="plan-bar-wrap"><div class="plan-bar" style="width:'+sc+'%"></div></div>'+
+'<span class="plan-verdict '+vd.c+'">'+vd.l+'</span></div>';
+}).join('');
+document.getElementById('breakeven-grid').innerHTML=PLANS.map(p=>{
+const r=Math.round((v.t/p.be)*100);const col=r>=100?'#16a34a':r>=60?'#ea580c':'#dc2626';
+return '<div class="breakeven-item"><div class="breakeven-name">'+p.logo+' '+p.name+'</div>'+
+'<div class="breakeven-value" style="color:'+col+'">'+r+'%</div>'+
+'<div class="breakeven-desc">'+r+'% des Break-even<br>('+p.be+' Aufgaben/Monat n\u00f6tig)</div></div>';
+}).join('');
+const b=best.p;
+let r='';
+if(v.c>=15)r='Du codierst viel \u2013 Claude Pro oder Max ist erste Wahl. ';
+else if(v.i>=2)r='Du generierst regelm\u00e4\u00dfig Bilder \u2013 ChatGPT Plus mit DALL\u00b7E ist ideal. ';
+else if(v.t>=80)r='Mit so vielen Aufgaben ist ein starkes Modell Pflicht. ';
+else if(v.h<=1)r='Bei unter 1 Stunde t\u00e4glich lohnt oft das kostenlose Tier. ';
+else r='Bei deiner Nutzung bekommst du den besten Gegenwert mit '+b.name+'. ';
+document.getElementById('rec-box').innerHTML='<h2>Unsere Empfehlung: '+b.logo+' '+b.name+'</h2><p>'+r+'<strong>'+b.desc+'</strong></p><div class="cta-row"><a href="'+b.url+'" class="btn-primary">Zum '+b.name+' Test \u2192</a></div>';
+}
+['range-hours','range-tasks','range-coding','range-images'].forEach(id=>{
+document.getElementById(id).addEventListener('input',e=>{
+if(id==='range-hours')document.getElementById('val-hours').textContent=e.target.value+' Std.';
+if(id==='range-tasks')document.getElementById('val-tasks').textContent=e.target.value;
+if(id==='range-coding')document.getElementById('val-coding').textContent=e.target.value+' Std.';
+if(id==='range-images')document.getElementById('val-images').textContent=IL[e.target.value];
+render();
+});
+});
 render();
 </script>
 </body>
