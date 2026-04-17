@@ -1,3 +1,83 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ai-tools-vergleich.de/#organization",
+      "name": "AI Tools Vergleich",
+      "url": "https://ai-tools-vergleich.de/",
+      "description": "Unabhaengige Tests und Vergleiche der wichtigsten KI-Tools aus deutscher Sicht."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ai-tools-vergleich.de/#website",
+      "url": "https://ai-tools-vergleich.de/",
+      "name": "AI Tools Vergleich",
+      "inLanguage": "de-DE",
+      "publisher": { "@id": "https://ai-tools-vergleich.de/#organization" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://ai-tools-vergleich.de/#webpage",
+      "url": "https://ai-tools-vergleich.de/",
+      "name": "KI-Tools im Vergleich 2026",
+      "isPartOf": { "@id": "https://ai-tools-vergleich.de/#website" },
+      "inLanguage": "de-DE",
+      "datePublished": "2026-01-01T00:00:00+01:00",
+      "dateModified": "2026-04-17T00:00:00+02:00"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Welches KI-Tool ist 2026 das beste fuer den Arbeitsalltag?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es gibt kein universelles bestes KI-Tool. Claude ueberzeugt bei Textarbeit und Coding, ChatGPT bei Recherche und Multimedia, Gemini bei Google-Integration, Cursor bei IDE-Entwicklung und Perplexity bei Recherche mit Quellenangaben."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie unterscheidet sich Claude von ChatGPT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Claude gilt als praeziser bei laengeren Texten. ChatGPT bietet mehr Integrationen und ein groesseres Plugin-Oekosystem. Beide liefern bei Coding vergleichbare Ergebnisse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind KI-Tools DSGVO-konform nutzbar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Enterprise-Versionen von Claude, ChatGPT und Gemini bieten Auftragsverarbeitungsvertraege. Fuer sensible Daten empfehlen sich europaeische Hostings oder lokale Modelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein professionelles KI-Tool monatlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Einstiegsabos liegen zwischen 20 und 30 Euro pro Monat. ChatGPT Plus und Claude Pro kosten je 20 US-Dollar. Team-Tarife starten bei 25 bis 60 Euro pro Platz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches KI-Tool eignet sich am besten fuer Entwickler?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Claude Code in Verbindung mit Cursor. Cursor integriert sich direkt in die IDE. Claude Code ergaenzt dies durch autonome Code-Review und komplexe Task-Ausfuehrung."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+{{ end }}
+
 {{ if not .IsHome }}
 <script type="application/ld+json">
 {
@@ -16,19 +96,6 @@
     "@type": "WebPage",
     "@id": "{{ .Permalink }}"
   }
-}
-</script>
-{{ end }}
-
-{{ if .IsHome }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "AI Tools Vergleich",
-  "url": "https://ai-tools-vergleich.de",
-  "description": "Vergleiche die besten KI Tools 2026: ChatGPT, Claude, Gemini und mehr.",
-  "inLanguage": "de-DE"
 }
 </script>
 {{ end }}

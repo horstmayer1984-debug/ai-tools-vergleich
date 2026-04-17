@@ -1,7 +1,7 @@
 ---
 title: "Attention Residuals: Moonshot AIs neü Methode für effizientere Transformer"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-03-29T10:00:00+01:00
+lastmod: 2026-03-29T10:00:00+01:00
 description: "Moonshot AI hat Attention Residuals veröffentlicht. Die Methode ersetzt klassische Residual Connections durch lernbare Aufmerksamkeit und liefert einen 1.25 fach Compute Vorteil."
 tags: ["Moonshot AI", "Attention Residuals", "Transformer", "KI Architektur", "Kimi"]
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200"

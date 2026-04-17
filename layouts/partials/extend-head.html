@@ -1,14 +1,41 @@
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap">
+
 <!-- Custom CSS -->
 <link rel="stylesheet" href="/css/custom.css">
 
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink }}">
 
-<!-- Optimierter Title -->
+<!-- Robots -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+<!-- Hreflang -->
+<link rel="alternate" hreflang="de" href="{{ .Permalink }}">
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+
+<!-- SEO Meta -->
 {{ if .IsHome }}
-<meta name="description" content="Vergleiche die besten KI Tools 2026: ChatGPT, Claude, Gemini und mehr. Tests, Use Cases und Empfehlungen fuer Marketing, Coding und Produktivitaet.">
+<meta name="description" content="Unabhaengige Tests und Vergleiche der wichtigsten KI-Tools. Claude vs ChatGPT, Gemini, Cursor und Perplexity. Funktionen, Preise und Praxisbewertungen aus deutscher Sicht.">
+<meta name="keywords" content="KI Tools Vergleich, Claude, ChatGPT, Gemini, Cursor, Perplexity, AI Test, KI Software 2026">
 {{ else }}
-  {{ with .Description }}
-  <meta name="description" content="{{ . }}">
-  {{ end }}
+  {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
 {{ end }}
+
+<!-- Open Graph -->
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="AI Tools Vergleich">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}Unabhaengige KI-Tool-Tests aus deutscher Sicht.{{ end }}">
+<meta property="og:locale" content="de_DE">
+{{ with .Params.image }}
+<meta property="og:image" content="{{ . }}">
+{{ end }}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}KI-Tools im Vergleich 2026{{ end }}">

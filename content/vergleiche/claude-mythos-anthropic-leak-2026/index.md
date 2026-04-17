@@ -1,7 +1,7 @@
 ---
 title: "Claude Mythos: Anthropics neues Top Modell durch Datenleck enthüllt"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-04-15T10:00:00+02:00
+lastmod: 2026-04-15T10:00:00+02:00
 description: "Anthropic hat versehentlich Details zu Claude Mythos preisgegeben. Das Modell übertrifft Opus 4.6 bei Coding, Reasoning und Cybersecurity. Was bekannt ist und was es bedeutet."
 tags: ["Claude Mythos", "Anthropic", "Capybara", "KI Modelle 2026", "Cybersecurity"]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"

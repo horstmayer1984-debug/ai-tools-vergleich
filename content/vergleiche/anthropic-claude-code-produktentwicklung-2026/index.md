@@ -1,7 +1,7 @@
 ---
 title: "Claude Code verändert wie Produkte entstehen: Was Anthropic im März 2026 gezeigt hat"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-04-12T10:00:00+02:00
+lastmod: 2026-04-12T10:00:00+02:00
 description: "Anthropic zeigt wie Claude Code traditionelle Produktentwicklung ersetzt. Autonome Agenten, Living Roadmaps und was das für Entwicklerteams bedeutet."
 tags: ["Anthropic", "Claude Code", "Produktentwicklung", "KI Agenten", "Opus 4.6"]
 image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"

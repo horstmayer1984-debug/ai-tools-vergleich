@@ -1,7 +1,7 @@
 ---
 title: "Nvidia GTC 2026: Warum der Wechsel zu Inference den deutschen KI Markt verändert"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-03-24T10:00:00+01:00
+lastmod: 2026-03-24T10:00:00+01:00
 description: "Nvidia GTC 2026 markiert den Wechsel von Training zu Inference. Was das für Rechenzentren, Industrie, Automotive und Marketing in Deutschland bedeutet."
 tags: ["Nvidia", "GTC 2026", "Inference", "KI Infrastruktur", "Deutschland"]
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"

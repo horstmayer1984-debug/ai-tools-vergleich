@@ -1,7 +1,7 @@
 ---
 title: "Claude Charts und Diagramme erstellen: Anthropics Visualisierungen im Test"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-04-10T10:00:00+02:00
+lastmod: 2026-04-10T10:00:00+02:00
 description: "Claude erstellt jetzt interaktive Charts und Diagramme direkt im Chat. Praxistest mit Vergleich zu ChatGPT und Gemini."
 tags: ["Claude", "Anthropic", "Visualisierungen", "Diagramme", "KI Tools"]
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"

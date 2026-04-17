@@ -1,7 +1,7 @@
 ---
 title: "GPT 5.4, Claude, Gemini, Nemotron: Was die neün KI Modelle 2026 für Unternehmen bedeuten"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-03-20T10:00:00+01:00
+lastmod: 2026-03-20T10:00:00+01:00
 description: "GPT 5.4, Claude, Gemini und Nemotron prägen das Modellrennen im März 2026. Welche Folgen das für Unternehmen und Branchen in Deutschland hat."
 tags: ["GPT 5.4", "Claude", "Gemini", "Nemotron", "KI Modelle 2026"]
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"

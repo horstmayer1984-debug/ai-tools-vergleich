@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Mathe lernen: Interaktive Grafiken im Praxistest"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-04-08T10:00:00+02:00
+lastmod: 2026-04-08T10:00:00+02:00
 description: "ChatGPT hat interaktive Mathe Visualisierungen für 70 Themen eingeführt. Praxistest mit Vergleich zu Claude und Gemini. Kostenlos für alle Nutzer."
 tags: ["ChatGPT", "Mathe lernen", "KI Bildung", "OpenAI", "interaktive Grafiken"]
 image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200"

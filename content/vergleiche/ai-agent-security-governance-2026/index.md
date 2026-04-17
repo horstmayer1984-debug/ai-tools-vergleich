@@ -1,7 +1,7 @@
 ---
 title: "AI Agent Security: Warum Governance 2026 über den Erfolg autonomer KI entscheidet"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-04-03T10:00:00+02:00
+lastmod: 2026-04-03T10:00:00+02:00
 description: "Autonome KI Agenten brauchen Governance. Warum Sicherheit, Identität und Compliance 2026 zum Schlüsselthema für deutsche Unternehmen werden."
 tags: ["AI Agent Security", "Governance", "Compliance", "NIST", "KI Sicherheit"]
 image: "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=1200"

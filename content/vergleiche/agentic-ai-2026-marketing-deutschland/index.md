@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI 2026: Wie autonome KI Agenten Marketing in Deutschland verändern"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+date: 2026-04-05T10:00:00+02:00
+lastmod: 2026-04-05T10:00:00+02:00
 description: "Agentic AI prägt 2026 den KI Markt. Warum das für Marketing, E Commerce, Service und B2B in Deutschland besonders relevant ist."
 tags: ["Agentic AI", "KI Agenten", "Marketing", "Automatisierung", "Deutschland"]
 image: "https://images.unsplash.com/photo-1531746790095-e5995f1a78e1?w=1200"

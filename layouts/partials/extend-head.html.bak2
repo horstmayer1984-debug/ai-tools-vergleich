@@ -1,0 +1,14 @@
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/custom.css">
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Optimierter Title -->
+{{ if .IsHome }}
+<meta name="description" content="Vergleiche die besten KI Tools 2026: ChatGPT, Claude, Gemini und mehr. Tests, Use Cases und Empfehlungen fuer Marketing, Coding und Produktivitaet.">
+{{ else }}
+  {{ with .Description }}
+  <meta name="description" content="{{ . }}">
+  {{ end }}
+{{ end }}
